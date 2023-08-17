@@ -1,6 +1,6 @@
 # Public wiki for OurWorld Venture Creator
 
-> see [...](...)
+> see [[...](https://ourworldventures.github.io/info_ourworld)]([...](https://ourworldventures.github.io/info_ourworld/intro/intro.html))
 
 ## To Develop 
 
