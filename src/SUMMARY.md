@@ -1,5 +1,11 @@
 ## OurWorld Venture Creator
 
+- [OurWorld Ventures](ventures/intro.md)
+    - [ThreeFold](ventures/threefold.md)
+    - [OurWorld Free Zone](ventures/freezone.md)
+    - [Sikana](ventures/sikana.md)
+    - [OurVerse](ventures/ourverse.md)
+    - [OurPhone](ventures/ourphone.md)
 - [OurWorld Litepaper](litepaper/intro/intro.md)
     - [Invest](litepaper/invest/invest.md)
     - [The Venture Creator](litepaper/ourworld/ourworld.md)
