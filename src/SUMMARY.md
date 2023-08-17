@@ -1,4 +1,22 @@
-## ThreeFold Cloud Internal
+## OurWorld Venture Creator
 
-- [Introduction](intro/intro.md)
-
+- [OurWorld Litepaper](intro/intro.md)
+    - [Invest](invest/invest.md)
+    - [The Venture Creator](ourworld/ourworld.md)
+    - [Initial Projects](initial/initial.md)
+    - [What Has Been Achieved Already?](achieved/achieved.md)
+    - [30m USD Funding Round](funding/funding.md)
+        - [Use of Proceeds](funding/proceeds.md)
+        - [Fundraise Terms](funding/terms.md)
+        - [Simulation](funding/simulation.md)
+        - [Structure](funding/structure.md)
+        - [INXIT](funding/inxit.md)
+    - [Why an Internet Venture Creator?](why/why.md)
+    - [Appendixes](appendix/apendix.md)
+        - [Appendix A](appendix/a.md)
+        - [Appendix B](appendix/b.md)
+        - [Appendix C](appendix/c.md)
+        - [Appendix D](appendix/d.md)
+        - [Appendix E](appendix/e.md)
+        - [Appendix F](appendix/f.md)
+    - [Disclaimer](disclaimer/disclaimer.md)
