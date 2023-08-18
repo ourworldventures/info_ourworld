@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Components of the OurWorld OS - OurWorld Knowledgebase</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../intro/intro.html">Intro</a></li><li class="chapter-item "><a href="../../ventures/intro.html">OurWorld Ventures</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../ventures/threefold.html">ThreeFold</a></li><li class="chapter-item "><a href="../../ventures/freezone.html">OurWorld Free Zone</a></li><li class="chapter-item "><a href="../../ventures/sikana.html">Sikana</a></li><li class="chapter-item "><a href="../../ventures/ourverse.html">OurVerse</a></li><li class="chapter-item "><a href="../../ventures/ourphone.html">OurPhone</a></li></ol></li><li class="chapter-item "><a href="../../intro/intro.html">OurWorld Litepaper</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../litepaper/ourworld/ourworld.html">The Venture Creator</a></li><li class="chapter-item "><a href="../../litepaper/initial/initial.html">Initial Projects</a></li><li class="chapter-item "><a href="../../litepaper/achieved/achieved.html">What Has Been Achieved Already?</a></li><li class="chapter-item "><a href="../../litepaper/why/why.html">Why an Internet Venture Creator?</a></li></ol></li><li class="chapter-item expanded "><a href="../../restore/intro/intro.html">Restore the Commons</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../restore/requirements/requirements.html">Requirements for OurWorld OS</a></li><li class="chapter-item "><a href="../../restore/approach/approach.html">3-Fold Approach</a></li><li class="chapter-item "><a href="../../restore/boil/boil.html">Let's Not Boil the Ocean</a></li><li class="chapter-item expanded "><a href="../../restore/components/components.html" class="active">Components of the OurWorld OS</a></li><li class="chapter-item "><a href="../../restore/building/building.html">Building a Conscious Global Community</a></li><li class="chapter-item "><a href="../../restore/appendix/appendix.html">Appendix</a></li></ol></li><li class="chapter-item "><a href="../../litepaper/funding/funding.html">Funding Round</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../litepaper/invest/invest.html">Why Invest</a></li><li class="chapter-item "><a href="../../litepaper/funding/proceeds.html">Use of Proceeds</a></li><li class="chapter-item "><a href="../../litepaper/funding/structure.html">Structure</a></li><li class="chapter-item "><a href="../../litepaper/funding/inxit.html">INXIT</a></li></ol></li><li class="chapter-item "><a href="../../litepaper/appendix/apendix.html">More Info</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../litepaper/appendix/a.html">Requirements</a></li><li class="chapter-item "><a href="../../litepaper/appendix/b.html">30 Years</a></li><li class="chapter-item "><a href="../../litepaper/appendix/c.html">Benefits for Community</a></li><li class="chapter-item "><a href="../../litepaper/appendix/d.html">Benefits for Country</a></li><li class="chapter-item "><a href="../../litepaper/appendix/e.html">What is a Venture Creator</a></li><li class="chapter-item "><a href="../../litepaper/appendix/f.html">Concepts F</a></li></ol></li><li class="chapter-item "><a href="../../litepaper/disclaimer/disclaimer.html">Disclaimer</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">OurWorld Knowledgebase</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="components-of-the-ourworld-os"><a class="header" href="#components-of-the-ourworld-os">Components of the OurWorld OS</a></h1>
+<p>All further described elements are delivered by our initial startups as described in: <a href="http://info007.venturecreator.org">http://info007.venturecreator.org</a></p>
+<h2 id="co-owned-complementary-internet"><a class="header" href="#co-owned-complementary-internet">Co-Owned Complementary Internet</a></h2>
+<p>Over half of the world's population lacks adequate access to banking and high-quality Internet, but we can change that by providing these services for less than 1 USD per person per month. To achieve this, we must deploy our complimentary Internet platform in collaboration with everyone, this concept we call &quot;BE THE INTERNET.&quot; A significant amount of progress has already been made towards this goal, as seen on <a href="http://www.threefold.me">http://www.threefold.me</a> .</p>
+<h2 id="knowledge"><a class="header" href="#knowledge">Knowledge</a></h2>
+<p>Incredible amounts of information can be made available for everyone everywhere. This information can easily be found through neutral non manipulated AI powered search and expanded upon. There is a proof of authenticity linked to the information and the authors which allows everyone to assess the quality of the information.</p>
+<p>We bring existing knowledge into the system as well as provide translations in the language of the communities. We allow the community to add to the knowledgebase and curate the information.</p>
+<p>This information flow cannot be stopped and stays available even if the Internet goes down (or parts of it).</p>
+<h2 id="communication"><a class="header" href="#communication">Communication</a></h2>
+<p>Fair and authentic communication is super important. Our system allows everyone to communicate at all times with everyone. Even if anonymity would be needed (for certain situations or information), authenticity of the information can still be verified by everyone. A peer2peer system validates the information and takes the bad actors out (e.g. hackers). </p>
+<p>The system has been designed to keep manipulation out and also make sure that information can always flow even in situations where the Internet gets blocked or interrupted. There is NO centralization in this system. Communication can happen by means of video, audio and text.</p>
+<h2 id="community-working--collaboration"><a class="header" href="#community-working--collaboration">Community Working / Collaboration</a></h2>
+<p>Community is everything. The purpose is to allow communities to self govern, grow and expand with respect for authenticity and quality of information and communication. The tools make it easy for communities to collaborate, communicate, self govern, expand, …</p>
+<h2 id="financial-and-ownership-stability"><a class="header" href="#financial-and-ownership-stability">Financial and Ownership Stability</a></h2>
+<p>Many people worldwide are currently fearful of losing their financial and ownership assets. The financial and legal systems are deteriorating, leaving us in need of secure, legally protected places where we can co-own and build wealth together, while enjoying equal rights. Depending on outdated structures where only a few hold power over the masses cannot ensure our wellbeing. Moving money around is now challenging, and we cannot guarantee its safety. For instance, remittance poses a significant problem, as people bringing money back home can lose up to 20% of it.</p>
+<h2 id="fund-and-be-funded"><a class="header" href="#fund-and-be-funded">Fund and Be Funded</a></h2>
+<p>In our system, investment instruments that rely on debt are not necessary. Instead, we use co-funding through collaboration and pre-purchase models to fund worthy projects. This approach eliminates the need for &quot;Aggressive Venture Capital&quot; or &quot;Opportunistic Private Equity Hedge Funds,&quot; which rely on the survival of the fittest or unfair value extraction through debt. Instead, we require conscious investors who prioritize doing good and achieving a mutual benefit for themselves and their investors.</p>
+<h2 id="exchange--trade"><a class="header" href="#exchange--trade">Exchange &amp; Trade</a></h2>
+<p>Our system allows everyone to promote their products and services without any cost. Trustworthy exchange and trade are the core features of our system, and middlemen are only necessary when they add value. There are no lock-in structures, no commissions, or manipulations. All information is validated for authenticity, ensuring fair and trustworthy mechanisms for doing business together.</p>
+<h2 id="education"><a class="header" href="#education">Education</a></h2>
+<p>Over 50% of the world's population lacks access to basic education and health systems, despite the abundance of information and systems available. To address this issue, we must translate and localize information and deploy upgraded systems that enable self-care and peer-to-peer education. Communities are powerful and willing to support each other, but they require more convenient and secure systems.</p>
+<h2 id="live-longer-healthier-lives"><a class="header" href="#live-longer-healthier-lives">Live longer healthier lives</a></h2>
+<p>Many beneficial disease treatments and wellness boosters have been invented, but their entry into the market is restricted by the capitalist nature of the medical industry. The high cost, often exceeding 1 billion USD, makes it financially feasible only for blockbuster medications, leaving other valuable treatments locked away. Some claim only 1% of available medicine makes it to the market.</p>
+<p>The remarkable scientific progress we've made is bringing us to a point where through open-source and decentralized collaboration, we can make true healthy living available to everyone at a fraction of the cost.</p>
+<h2 id="access-to-healthy-food-and-more-nature"><a class="header" href="#access-to-healthy-food-and-more-nature">Access to Healthy Food and More Nature</a></h2>
+<p>We are working on projects which have the potential to re-generate the earth, reverse the damage as done by over consumption and the use of bad fertilizers. </p>
+<p>This concept would restore earth (even deserts), produce better food, connect people to nature and produce clean energy all in one system.</p>
+<h3 id="the-link-to-countries-network-states-large-scale-communities-and-diasporas"><a class="header" href="#the-link-to-countries-network-states-large-scale-communities-and-diasporas">The Link To Countries, Network States, Large scale communities and Diaspora’s</a></h3>
+<p>Countries are big communities with their specific needs and challenges. Our VentureCreator has been set up to help countries and governments to excel to create a better digital future. Ask for more information.</p>
+<p>We can do the same for other large scale communities like Diaspora’s and Network States.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../restore/boil/boil.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../restore/building/building.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../restore/boil/boil.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../restore/building/building.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3004/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        <script type="text/javascript" src="../../mermaid.min.js"></script>
+        <script type="text/javascript" src="../../mermaid-init.js"></script>
+
+
+    </body>
+</html>
