@@ -7,4 +7,4 @@ Manual: [info.ourworldfreezone.com](https://ourworldfreezone.github.io/info_free
 
 Status: Signed with Zanzibar Government August 2023
 
-TODO: ADD MORE INFO
+![alt_text](img/freezone1.png)

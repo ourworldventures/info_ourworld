@@ -6,4 +6,4 @@ Website: [ourverse.tf](https://ourverse.tf/)
 
 Status: Not Yet Active
 
-TODO: ADD MORE INFO
+![alt_text](img/ourverse1.png)
