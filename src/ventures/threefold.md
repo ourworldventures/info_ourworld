@@ -11,4 +11,4 @@ Launched: 2016
 
 Today the ThreeFold Grid is live in more than 60 countries and in its third generation technology.
 
-TODO: ADD MORE INFO
+![alt_text](img/threefold1.png)

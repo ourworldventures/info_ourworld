@@ -6,4 +6,4 @@ Website: [ourphone.tf](https://ourphone.ourworld.tf)
 
 Status: Not Yet Active
 
-TODO: ADD MORE INFO
+![alt_text](img/ourphone1.png)
