@@ -2,11 +2,12 @@
 
 # OurWorld Ventures
 
-Together we are creating a multi-faceted platform to support and empower startups aspiring to harness of emerging technology while putting the planet and people first.
 
 ![](img/ventures.png)
 
-Our current projects have concrete potential to bring true sovereignty to all of us.
+Together we are creating a multi-faceted platform to support and empower startups aspiring to harness of emerging technology while putting the planet and people first.
+
+We believe the current projects may have the potential to bring true sovereignty.
 
 
 ## OurWorld Venture Creator is a platform
@@ -20,10 +21,14 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 * **Legal & Financial Independence Platform:** How can we supplement with a system that offers legal and financial independence, through mechanisms like free zones and sovereign sustainable charter city.
 * **Life Supporting Platform:** a sovereign efficient set of platforms for financial, educational, and health systems, which can be utilized by all the startups?
 
+## Roadmap
+
 ![alt_text](img/roadmap.png)
 
+>TODO: roadmap
 
 ## The Future
 
 ![](img/ventures_part2.png)
 
+>TODO: future
