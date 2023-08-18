@@ -2,7 +2,6 @@
 
 - [Intro](intro/intro.md)
     - [What](litepaper/ourworld/ourworld.md)
-    - [Initial Projects](litepaper/initial/initial.md)
     - [Roadmap](litepaper/achieved/achieved.md)
     - [Why](litepaper/why/why.md)
 - [OurWorld Ventures](ventures/ventures_intro.md)
