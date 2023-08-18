@@ -1,3 +1,5 @@
+![alt_text](img/why_vc.png)
+
 # Why an Internet Venture Creator?
 
 We believe that the world is in need of solutions that are trustworthy and sustainable, and that respect both the planet and its people. As an investor and partner, you will become part of the movement for a better world by supporting OurWorld and ThreeFold’s missions. With our innovative technology and commitment to sustainability, we see great potential for growth and positive impact in the future. Join us in shaping a better world for future generations!

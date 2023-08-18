@@ -59,5 +59,3 @@ OurWorld Venture Creator has as goal to bootstrap many of these Commons providin
    </td>
   </tr>
 </table>
-
-![alt_text](img/image20.png)

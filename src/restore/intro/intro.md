@@ -1,6 +1,6 @@
 # OurWorld: “A set of Tools to restore The Commons” 
 
-![alt_text](img/img1.png)
+![alt_text](img/restore_header.png)
 
 In a world where fear and greed prevail, we find ourselves in an incredibly exciting time where everything is possible. We believe that many of the challenges we face today, such as clean energy and water, combating desertification, waste repurposing, healthy living, CO2 sequestration, and sustainable lifestyles, have already been resolved. 
 

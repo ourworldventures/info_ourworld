@@ -10,9 +10,9 @@ OurWorld Venture Creator legal structure is in Mauritius, but we operate from Lu
 
 Our team is behind some of the world’s most advanced Internet storage and cloud automation technologies. We have realized +600m $USD in exits with less than 60m $USD in funding.
 
-![alt_text](img/image3.png)
+![alt_text](img/experience.png)
 
-![alt_text](img/image4.png)
+![alt_text](img/goals.png)
 
 ## Our Goals
 
@@ -24,7 +24,7 @@ Our team is behind some of the world’s most advanced Internet storage and clou
 
 ## Our Core Values
 
-![alt_text](img/image5.png)
+![alt_text](img/values.png)
 
 1. Planet First
    * The health of our planet cannot be ignored

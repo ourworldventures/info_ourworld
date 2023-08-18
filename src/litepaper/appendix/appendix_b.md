@@ -2,7 +2,7 @@
 
 OurWorld Venture Creator is the result of 30 years of venture creating experience and incubation.
 
-![alt_text](img/image3.png)
+![alt_text](img/exits.png)
 
 More than 500.000.000 USD in exits. Average IRR for our investors was above 44% per year.
 

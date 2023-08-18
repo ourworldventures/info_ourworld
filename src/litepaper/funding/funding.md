@@ -1,6 +1,6 @@
 # 30m USD Funding Round
 
-![alt_text](img/image15.png)
+![alt_text](img/ow_ventures.png)
 
 ThreeFold and OurWorld have been created and grown by an experienced team who had great successes before. Our previous venture creator (called Incubaid, see [www.incubaid.com](http://www.incubaid.com) ) generated a 10x average return for our investors and had +600 million USD exits. OurWorld Venture Creator is the next iteration of Incubaid. 
 

@@ -1,4 +1,4 @@
-![alt_text](img/image1.png)
+![alt_text](img/ourworld_home.png)
 
 In a world where fear and greed prevail, we find ourselves in an incredibly exciting time where everything is possible. 
 

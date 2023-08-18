@@ -2,9 +2,9 @@
 
 ## ThreeFold
 
-![alt_text](img/image10.png)
+![alt_text](img/explorer_stats.png)
 
-![alt_text](img/image11.png)
+![alt_text](img/explorer_map.png)
 
 * ThreeFold Grid (a deployment of this technology in an open source model) and is active for years, also in generation 3, every day the community is adding capacity and using it (see [https://dashboard.grid.tf/explorer/statistics](https://dashboard.grid.tf/explorer/statistics) ). The community invested more than 30m USD.
 * ThreeFold has developed all the technology required for an upgraded Internet and is now in generation 3.
@@ -37,7 +37,7 @@ following incredible features:
    </td>
    <td>
 
-<img src="img/image12.png" width="" alt="alt_text">
+<img src="img/freezone_press.png" width="" alt="alt_text">
 
    </td>
   </tr>
@@ -68,7 +68,7 @@ following incredible features:
    </td>
    <td>
 
-<img src="img/image13.png" width="" alt="alt_text">
+<img src="img/freezone_press2.png" width="" alt="alt_text">
 
    </td>
   </tr>
@@ -96,7 +96,7 @@ extending to e-health
    </td>
    <td>
 
-<img src="img/image14.png" width="" alt="alt_text">
+<img src="img/sikana_site.png" width="" alt="alt_text">
 
    </td>
   </tr>
