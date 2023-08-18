@@ -1,6 +1,5 @@
-# APPENDIX: 
 
-## Why is Change so Difficult
+# Why is Change so Difficult
 
 We live in a relatively stable world. This stability makes it difficult to initiate change, and many individuals find themselves living monotonous lives filled with boredom, helplessness, and frustration. As a society, we don't teach our children how to tap into their limitless potential or recognize their inner strength. Moreover, we tend to accept daily brainwashing, as illustrated in the thought-provoking documentary "A Century of the Self," which highlights the absurd ways in which we've accepted and continue to accept manipulation. We have been programmed to accept outside authority unquestioningly, what has happened to our personal inner authority? 
 

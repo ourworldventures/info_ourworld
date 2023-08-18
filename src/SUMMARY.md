@@ -18,7 +18,7 @@
     - [Let's Not Boil the Ocean](restore/boil/boil.md)
     - [Components of the OurWorld OS](restore/components/components.md)
     - [Building a Conscious Global Community](restore/building/building.md)
-    - [Appendix](restore/appendix/appendix.md)
+    - [Change Is Difficult](restore/change_difficult.md)
 - [Funding Round](litepaper/funding/funding.md)
     - [Why Invest](litepaper/invest/invest.md)
     - [Use of Proceeds](litepaper/funding/proceeds.md)
