@@ -4,13 +4,13 @@
 
 Our current projects have concrete potential to bring true sovereignty to all of us.
 
-![alt_text](img/image7.png)
 
-The value of the projects underneath in our opinion is already worth above 100 million USD. This makes sure that your investment as a digital bond is well protected and offers you the capability to convert in shares when convenient.
 
 # OurWorld Venture Creator is a platform
 
-![alt_text](img/image8.png)
+![alt_text](img/platform.png)
+
+
 
 OurWorld venture creator aims to create a multifaceted platform that can be used by lots of other startups who want to build value with emerging technology and focus on the planet and people first.
 
@@ -19,4 +19,4 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 * **Legal & Financial Independence Platform:** How can we supplement with a system that offers legal and financial independence, through mechanisms like free zones and sovereign sustainable charter city.
 * **Life Supporting Platform:** a sovereign efficient set of platforms for financial, educational, and health systems, which can be utilized by all the startups?
 
-![alt_text](img/image9.png)
+![alt_text](img/roadmap.png)

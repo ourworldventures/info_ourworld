@@ -21,3 +21,5 @@ Can you imagine a world where:
 OurWorld Venture Creator's mission is to help make this world a reality, and we can only do this by fundamentally changing the thought processes that caused the problems in the first place.
 
 We are a passionate group of entrepreneurs and technologists who want to help create an antidote. We have a concrete plan which starts with a conscious funding model. We have already developed a new decentralized infrastructure layer for the Internet and Web 3.0, and we are now looking for partners with meaningful projects focused on harnessing the power of nature to make sure we are operating everything in a regenerative way.
+
+> [Our website](https://ourworld.tf) .

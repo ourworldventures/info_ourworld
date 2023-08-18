@@ -4,11 +4,11 @@ We believe that the world is in need of solutions that are trustworthy and susta
 
 We are a grounded project, for phase one we have following tools available:
 
-    * Decentralized and co-owned Internet and Digital Backbone Platform ready to scale.
-    * A Digital FreeZone and accompanying Charter City.
-    * Secure Private Personal Web3 Access Point and Personal Digital Assistant, to deliver all requirements of your digital life. Compatible with any Web 2&3 interface or protocol.
-    * Reliable cross border & micro payments, millions of transactions per second, supports unreliable network connectivity (even offline) and offers equal chances for everyone.
-    * Governance Tech Layer, addressing legal, corporate & financial requirements for any size community.
+* Decentralized and co-owned Internet and Digital Backbone Platform ready to scale.
+* A Digital FreeZone and accompanying Charter City.
+* Secure Private Personal Web3 Access Point and Personal Digital Assistant, to deliver all requirements of your digital life. Compatible with any Web 2&3 interface or protocol.
+* Reliable cross border & micro payments, millions of transactions per second, supports unreliable network connectivity (even offline) and offers equal chances for everyone.
+* Governance Tech Layer, addressing legal, corporate & financial requirements for any size community.
 
 We are establishing **OurWorld Digital Free Zone in partnership with the government of Zanzibar.** Imagine a world where you can do frictionless business at the speed of light, using our co-owned, co-agreed financial and regulatory framework. This zone has the ability to deliver true financial, business and information freedom with a special focus on authenticity. Our aim is to bring millions of people together in this zone digitally and make it affordable for all. Such a zone can be used to organize co-ownership structures, security token offerings, legal supported DAO’s, etc.
 
