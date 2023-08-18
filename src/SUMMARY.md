@@ -22,13 +22,13 @@
     - [Use of Proceeds](litepaper/funding/proceeds.md)
     - [Structure](litepaper/funding/structure.md)
     - [INXIT](litepaper/funding/inxit.md)
-- [More Info](litepaper/appendix/apendix.md)
+- [More Info](litepaper/appendix/appendix.md)
     - [Requirements](litepaper/appendix/a.md)
     - [30 Years](litepaper/appendix/b.md)
     - [Benefits for Community](litepaper/appendix/c.md)
     - [Benefits for Country](litepaper/appendix/d.md)
     - [What is a Venture Creator](litepaper/appendix/e.md)
-    - [Concepts F](litepaper/appendix/f.md)
+    - [Concepts](litepaper/appendix/concepts.md)
 - [Disclaimer](litepaper/disclaimer/disclaimer.md)
 
 
