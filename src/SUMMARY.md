@@ -10,7 +10,7 @@
     - [Sikana](ventures/sikana.md)
     - [OurVerse](ventures/ourverse.md)
     - [OurPhone](ventures/ourphone.md)
-- [Restore the Commons](restore/intro/intro.md)
+- [Restore the Commons](restore/intro/restore_intro.md)
     - [Requirements](restore/requirements/requirements.md)
     - [3-Fold Approach](restore/approach/approach.md)
     - [Let's Not Boil the Ocean](restore/boil/boil.md)
