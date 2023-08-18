@@ -1,7 +1,7 @@
 ## OurWorld Venture Creator
 
 - [Intro](intro/intro.md)
-- [OurWorld Ventures](ventures/intro.md)
+- [OurWorld Ventures](ventures/ventures_intro.md)
     - [ThreeFold](ventures/threefold.md)
     - [OurWorld Free Zone](ventures/freezone.md)
     - [Sikana](ventures/sikana.md)

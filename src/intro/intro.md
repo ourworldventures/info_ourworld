@@ -1,6 +1,12 @@
 ![alt_text](img/image1.png)
 
-In a world where fear and greed prevail, we find ourselves in an incredibly exciting time where everything is possible. We believe that many of the challenges we face today, such as clean energy and water, combating desertification, waste repurposing, healthy living, CO2 sequestration, and sustainable lifestyles, have already been resolved. However, due to the influence of fear and greed, these much-needed innovations don’t find their way to market in an abundance-based way. We believe there are more than enough resources available in the world to allow everyone to have a prosperous and meaningful life. 
+In a world where fear and greed prevail, we find ourselves in an incredibly exciting time where everything is possible. 
+
+We believe that many of the challenges we face today, such as clean energy and water, combating desertification, waste repurposing, healthy living, CO2 sequestration, and sustainable lifestyles, have already been resolved. 
+
+However, due to the influence of fear and greed, these much-needed innovations don’t find their way to market in an abundance-based way. We believe there are more than enough resources available in the world to allow everyone to have a prosperous and meaningful life. 
+
+![](img/2dream.png)
 
 Can you imagine a world where:
 
