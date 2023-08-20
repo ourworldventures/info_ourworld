@@ -7,4 +7,9 @@ Manual: [info.ourworldfreezone.com](https://ourworldfreezone.github.io/info_free
 
 Status: Signed with Zanzibar Government August 2023
 
-TODO: ADD MORE INFO
+- About: The Digital FreeZone designed for the ever-growing digital nomad and SME community, providing a streamlined, automated and regulated legal and financial environment.
+- Problem: Digital nomads and SMEs struggle with regulatory compliance, transparency and tax-related issues.
+- Solution: A digital freezone structured as a legal sandbox that offers fully automated, cost-effective, hyper-scalable legal and financial solutions in a fair regulatory environment.
+- Business model: registration fees, services fees, revenue on licensing (as we act as regulators of e-banking hub).
+- Market: Global digital nomad (+35 million people) & SME market. Differentiator: Platform offers 100% automated services, transparent reporting, and a sustainable 5% tax benefit for users.
+- Status: Shareholder agreements signed. Next step is to hire executive team and to launch pre-sale of companies.
