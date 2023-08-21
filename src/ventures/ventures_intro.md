@@ -21,6 +21,11 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 * **Legal & Financial Independence Platform:** How can we supplement with a system that offers legal and financial independence, through mechanisms like free zones and sovereign sustainable charter city.
 * **Life Supporting Platform:** a sovereign efficient set of platforms for financial, educational, and health systems, which can be utilized by all the startups?
 
+
+## The Ventures
+
+- [ThreeFold Cloud](img/threefold_cloud.md)
+
 ## Roadmap
 
 ![alt_text](img/roadmap.png)
