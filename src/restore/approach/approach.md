@@ -6,7 +6,7 @@ In this section we describe how we can together create this OurWorld OS.
 
 We have created a Mother Venture Creator called OurWorld in Mauritius which creates and empowers startups who invent, create and maintain the initial bootstrap components as needed for the OurWorld OS. 
 
-![alt_text](img/img3.png)
+![alt_text](img/first_projects.png)
 
 **_4 Initial Projects_**
 
@@ -39,6 +39,6 @@ We are working with partners to structure vehicles that could mobilize billions 
 
 Once the projects are operational and providing return, community owned Cooperative structures can buy back the shares of these projects as well as from our Venture Creators.
 
-![alt_text](img/img4.png)
+![alt_text](img/regenerator.png)
 
 _This is an example of a commons based project where we provide a full blown circular solution to a community. Such a solution will exit to community while being operational._

@@ -2,7 +2,7 @@
 
 Together we have an amazing opportunity to create a Conscious Operating System for Humanity which we call OurWorld OS, not as a global centralized system but as a networked community driven mycelium of knowledge and collaboration achieving the goals as set before.
 
-![alt_text](img/img2.png "image_tooltip")
+![alt_text](img/our_values.png)
 
 ## Requirements
 

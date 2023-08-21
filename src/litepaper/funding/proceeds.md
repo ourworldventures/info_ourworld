@@ -11,4 +11,3 @@
 At initial stage only 10m EUR will be invested, and based on milestones more will be released
 
 * Initial investments total to 10m EUR: 2.5+5+2+0.5
-* More detailed information see [this document](https://threefold.docsend.com/view/4na7fcwme3v4appe/d/xd5us6dxgae5ddmd).

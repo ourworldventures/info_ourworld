@@ -1,4 +1,4 @@
-![alt_text](img/image2.png)
+![alt_text](img/invest.png)
 
 # Invest In OurWorld Venture Creator
 

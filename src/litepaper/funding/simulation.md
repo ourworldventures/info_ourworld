@@ -10,14 +10,14 @@ Currently, the financial world is facing significant challenges. We believe that
 * Investors have the flexibility to choose which organization to invest in when they convert their loan to shares.
 * Mauritius is internationally recognized as a secure and well-governed jurisdiction.
 
-![alt_text](img/image17.png)
+![alt_text](img/sim_good.png)
 
 The multiple as specified is a simulation if the investor would convert to shares at the Venture Creator level and the share percentage would be 20%. The weighted exit value is potential value which we believe we can create taking weights into consideration.
 
-![alt_text](img/image18.png)
+![alt_text](img/sim_slow.png)
 
 Above tables show how the venture creator structure allows the bonds to always be backed by the aggregated value of the ventures. The investors can choose when and if they want to convert their bonds to shares of any of the startups. In the appendix you can find a more detailed simulation of the “good” case.
 
-![alt_text](img/image19.png)
+![alt_text](img/sim_worst.png)
 
 _DISCLAIMER: The simulation provided is for informational purposes only and is not intended to provide specific financial or investment advice. It is presented as is, without any warranty of any kind, either express or implied._

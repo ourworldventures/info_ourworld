@@ -1,4 +1,4 @@
-![alt_text](img/img5.png)
+![alt_text](img/building_header.png)
 
 # Concrete Steps for building a conscious GLocal Community
 
