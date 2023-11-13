@@ -12,6 +12,8 @@ Our team is behind some of the world’s most advanced Internet storage and clou
 
 ![alt_text](img/experience.png)
 
+<div style="page-break-before:always">&nbsp;</div><p></p>
+
 ![alt_text](img/goals.png)
 
 ## Our Goals
@@ -21,6 +23,7 @@ Our team is behind some of the world’s most advanced Internet storage and clou
 3. To empower individuals and communities with the digital tools and capabilities they need to achieve a sustainable and secure digital economy through e-commerce, e-education, e-health …
 4. To build an Earth Regenerator that provides energy and soil regeneration capabilities capable of decarbonizing the planet as well as helping to reverse desertification (phase 2).
 5. Build new ways to produce Healthy Food and Clean Water (phase 2). \
+
 
 ## Our Core Values
 

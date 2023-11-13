@@ -1,3 +1,14 @@
 
 book/
 .vscode
+docs/
+docs
+.DS_Store
+*dSYM/
+.vmodules/
+.vscode
+_docs/
+vls.*
+vls.log
+node_modules/
+docs/
