@@ -1,4 +1,4 @@
-# APPENDIX F: Concepts
+# Concepts
 
 ## The Commons
 

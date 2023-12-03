@@ -1,8 +1,9 @@
 # Appendixes
 
-- [Appendix A: Requirements for a Sustainable Solution](a.md)
-- [Appendix B: The Result of 30 Years](b.md)
-- [Appendix C: Benefits for Yourself & Your Community](c.md)
-- [Appendix D: Digital Backbone Benefits for a Country](d.md)
-- [Appendix E: What is a Venture Creator?](e.md)
-- [Appendix F: Concepts](f.md)
+- [Appendix Requirements for a Sustainable Solution](requirements_sustainable_solution.md)
+- [Appendix The Result of 30 Years](30_years.md)
+- [Appendix Benefits for Yourself & Your Community](benefits_you_community.md)
+- [Appendix Digital Backbone Benefits for a Country](digital_backbone_benefits_country.md)
+- [Appendix What is a Venture Creator?](what_is_venture_creator.md)
+- [Appendix INXIT](ow/litepaper/funding/inxit.md)
+- [Appendix Concepts](concepts.md)

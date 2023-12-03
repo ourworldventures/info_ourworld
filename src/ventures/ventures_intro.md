@@ -22,9 +22,12 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 * **Life Supporting Platform:** a sovereign efficient set of platforms for financial, educational, and health systems, which can be utilized by all the startups?
 
 
-## The Ventures
+## Our Active Ventures
 
-- [ThreeFold Cloud](img/threefold_cloud.md)
+- [ThreeFold Tech](threefold_tech.md)
+- [ThreeFold Cloud](threefold_cloud.md)
+- [Sikana](sikana.md)
+- [Digital Freezone](freezone.md)
 
 ## Roadmap
 
