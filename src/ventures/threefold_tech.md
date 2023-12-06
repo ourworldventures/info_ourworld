@@ -2,6 +2,18 @@
 
 ![](img/threefold_architecture.png)
 
+## Venture Highlights 
+
+- **Overview**: ThreeFold Tech is a trailblazer in autonomous, decentralized, and sustainable internet and cloud infrastructure technology.
+- **Mission**: To reshape the internet and cloud infrastructure landscape with a focus on decentralization, autonomy, and sustainability.
+- **Problem**: The centralized nature of current internet and cloud infrastructures leads to inefficiencies, security vulnerabilities, and a lack of sustainability.
+- **Market Opportunity**: Addressing a rapidly expanding global internet infrastructure market worth $Trillions, with demand in sectors like AI, IoT, cloud computing, and autonomous vehicles.
+- **Products and Services**: Decentralized Autonomous OS, Quantum Safe Storage, Edge Cloud Computing Platform, and Mycelium Network, together creating a comprehensive and autonomous cloud infrastructure solution.
+- **Stage of Development**: Technology rolled out on large scale, we now need to strengthen executive team and commercially launch our solutions.
+- **Key Differentiators**: Uniquely autonomous and hyper-scalable infrastructure, offering significant energy savings and enhanced security compared to traditional models.
+- **Business Model**: Licensing and supporting specific deployments, such as [Tier-S data centers](https://info.ourworld.tf/datacenter/datacenter/intro/intro.html), with an OEM strategy for broader market access.
+- **Planned Exit**: M&A +500m USD (preferred option) or Recurring revenue streams (priv equity, or stock exchange)
+
 ## Why: Revolutionizing Internet Infrastructure for a Sustainable Future
 
 TFTech is addressing the urgent need for a more sustainable, efficient, and autonomous internet infrastructure. With the global internet infrastructure market rapidly expanding and demanding energy-efficient features, TFTech recognizes the limitations of existing centralized, complex, and power-hungry solutions. Their revolutionary platform is poised to disrupt the market, catering to industries like AI, IoT, cloud computing, and autonomous vehicles, among others. This venture aims to enable a world where individuals and organizations can operate in a safe, sovereign, scalable, and energy-efficient digital environment, challenging the status quo of internet and cloud infrastructure.
