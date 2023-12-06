@@ -16,7 +16,7 @@ Thanks to it's open-source nature, OurVerse is compatible with most modern proto
 
 ## What: The OurVerse Offering
 
-A better world is one where we all have access to endless information and oppurtunities. OurVerse exists to achieve that dream.
+A better world is one where we all have access to endless information and oppurtunities. OurVerse exists to achieve that dream. Features include: 
 
 - **Easy Information & Web Publishing**: Users can publish a wide range of websites and web experiences, ensuring freedom of expression and dissemination of information.
 - **Global Indexing & Search**: Features a global indexing system based on planet, people, and authenticity, enhancing the relevance and reliability of search results.
