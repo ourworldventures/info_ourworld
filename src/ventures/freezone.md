@@ -7,11 +7,11 @@
 - **Overview**: Digital FreeZone offers a streamlined, automated, and regulated digital legal and financial environment for digital nomads and SMEs.
 - **Mission**: To revolutionize the way digital nomads and SMEs conduct global business by simplifying compliance and operational processes.
 - **Problem**: Traditional business environments and legal systems are often not adapted to the needs of digital nomads and SMEs, leading to challenges in regulatory compliance, transparency, and tax-related issues.
-- **Market Opportunity**: The platform addresses the growing global digital nomad community and SMEs who seek accessible, efficient, and transparent business solutions.
+- **Market Opportunity**: The platform addresses the growing global digital nomad community estimated at over 35 million people, and the SME market. The platform’s key differentiators are its 100% automated services, transparent reporting, and a sustainable 5% tax benefit for users.
 - **Products and Services**: A comprehensive suite of digital services including legal sandboxing, streamlined license approvals, automated document submissions, and digital channels for compliance management.
-- **Stage of Development**: Established and operational with ongoing development for expanding and enhancing service offerings.
+- **Stage of Development**: As of August 2023, shareholder agreements have been signed with the Zanzibar Government. The next steps include hiring an executive team and launching a pre-sale of companies.
 - **Key Differentiators**: Complete digital solution for global business operations, transparency in processes, and ease of use. Unique in providing a legal sandbox for digital nomads and SMEs.
-- **Business Model**: Revenue generated through registration fees, service fees, and licensing, focusing on a market of global digital nomads and SMEs.
+- **Business Model**: The venture generates revenue through registration fees, service fees, and licensing revenue, as it acts as a regulator of the e-banking hub.
 
 ## Why: Frictionless Legal and Financial Operations
 
@@ -31,9 +31,6 @@ The world's first 100% digital free zone, accessible and affordable for all. Rem
 - **Tax Efficiency and Legal Support**: With no capital gains tax and a 5% income tax, along with a clear set of regulations and efficient dispute handling, the DFZ provides a stable and trustworthy business environment​​​​.
 - **Integrated Financial Ecosystem and Marketplace**: The DFZ connects with various financial instruments and has an internal marketplace, fostering commerce within the free zone​​. The DFZ enables seamless collaboration and simplifies financial transactions, offering smooth banking services with reduced complications and fees​​.
 - **Innovative Features**: It includes features like crowdfunding, security token offerings, legalized DAOs, and a digital twin interface, making it a pioneering hub for business, aligning with global standards and embracing technologies like blockchain and digital currencies​​.
-- **Business Model**: The venture generates revenue through registration fees, service fees, and licensing revenue, as it acts as a regulator of the e-banking hub.
-- **Target Market and Differentiators**: The primary market includes the global digital nomad community, estimated at over 35 million people, and the SME market. The platform’s key differentiators are its 100% automated services, transparent reporting, and a sustainable 5% tax benefit for users.
-- **Current Status and Future Plans**: As of August 2023, shareholder agreements have been signed with the Zanzibar Government. The next steps include hiring an executive team and launching a pre-sale of companies.
 
 This venture represents a significant innovation in the digital business world, offering a unique solution to common problems faced by digital nomads and SMEs. It combines technological advancement with a user-friendly approach to business, potentially revolutionizing the way these groups operate globally.
 
