@@ -49,6 +49,8 @@ Executive Board of Directors (5 members):
     * Director for multiple Global Business Companies and Authorized Company's
     * Expert in corporate administration, company secretarial, and relationship management
 * Michael Michaelidi (Co-Founder and Executive Partner DAVG)
+    * Extensive C-level and board experience with proven track record of achieving demanding operational and financial objectives.
+    * Former responsible of VIP portfolio of Credit Suisse Group, advising across sectors. 
 * +Future shareholders representation and external Board members to be added at a later stage
 
 At first there is a Steering Committee to be appointed. Existing members of the Board 
