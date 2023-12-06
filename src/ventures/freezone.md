@@ -13,7 +13,7 @@ The solution is a digital free zone structured as a legal sandbox. This innovati
 
 The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
 
-- **Automated and Regulated Platform**: The platform is structured as a legal sandbox, offering fully automated, cost-effective and hyper-scalable legal and financial solutions. It operates within a fair regulatory environment, ensuring compliance and ease of business operations.
+- **Automated and Regulated Platform**: The platform offers fully automated, cost-effective and hyper-scalable legal and financial solutions. It operates within a fair regulatory environment, ensuring compliance and ease of business operations.
 - **Business Model**: The venture generates revenue through registration fees, service fees, and licensing revenue, as it acts as a regulator of the e-banking hub.
 - **Target Market and Differentiators**: The primary market includes the global digital nomad community, estimated at over 35 million people, and the SME market. The platform’s key differentiators are its 100% automated services, transparent reporting, and a sustainable 5% tax benefit for users.
 - **Current Status and Future Plans**: As of August 2023, shareholder agreements have been signed with the Zanzibar Government. The next steps include hiring an executive team and launching a pre-sale of companies.
