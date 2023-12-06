@@ -18,11 +18,14 @@ This is no science fiction, but down to earth available technology who has the p
 
 > See our [roadmap](roadmap.md) for our practical approach.
 
-## Components
+## Some of the Components
 
 - [Electricity Production](electricity_production.md) 
 - [Healthy Driking Water](drinking_water.md)
 - [Tier S Datacenter](tier_s_datacenter.md)
+- [Earth Regenerator](earth_regenerator.md)
+- [Video Education Platform](video_education.md)
+- [Metaverse Platform](metaverse_platform.md)
 
 ## Do we meet our requirements?
 

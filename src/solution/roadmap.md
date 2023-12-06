@@ -60,17 +60,5 @@ remark: necessary conditions to sell TFTech
 
 ### Step 2b: 
 
-
-
-www.globalfundforpeaceanddemocracy.org
-Thierry Michel,
-L’homme qui répare les femmes
-L’empire du silence
-
-power of woman
-
-global friends of congo
-
-
-a plan of peace for Congo
+> TODO: kristof finish
 
