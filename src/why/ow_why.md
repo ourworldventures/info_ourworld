@@ -8,12 +8,14 @@ We exists to resolve the following concrete issues:
 
 - [We don't help our kids](help_our_kids.md)
 - [Countries don't have their own Internet](countries_have_no_internet.md)
-- [Current Datacenters are Outdated, no ROI nor need.](improve_datacenters.md)
+- [Datacenters are wrongly built.](improve_datacenters.md)
+- [Shortage of Electricity](electricity_shortage.md)
+- [Access to Clean Water](water.md)
+- [Emerging countries are being extracted](extraction.md)
 - [Water & Land Erosion](land_erosion.md)
 - [Food is no Longer Food](food_no_longer_food.md)
 - [Migration to Cities is inhumane](migration_to_cities.md)
-- [Shortage for Electricity](electricity_shorage.md)
-- [Emerging countries are being extracted](extraction.md)
+- [Extraction Capitalism](extraction.md)
 
 ### Our Earth Regenerator helps nature & countries.
 

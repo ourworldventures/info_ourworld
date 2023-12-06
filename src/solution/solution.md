@@ -1,14 +1,14 @@
 
 ![](img/earthregen.png)
 
-# Earth Regenerator.
+# Earth Regeneration Platform.
 
 This is no science fiction, but down to earth available technology who has the potential to change everything.
 
 > Mother earth has everything required to solve our current world problems, OurWorld Venture Creator has the technology to accelerate her capabilities.
 
 
-**Our Earth Regenerator can achieve the following:**
+**Our Earth Regenerator can help achieve the following:**
 
 - Stop desertification (land degradation)
 - Stop hunger, make sure everyone has clean water and access to healthy food. There is enough for everyone.

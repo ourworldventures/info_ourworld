@@ -8,9 +8,7 @@ We have created a Mother Venture Creator called OurWorld in Mauritius which crea
 
 ![alt_text](img/first_projects.png)
 
-**_4 Initial Projects_**
-
-Read more in [http://info007.venturecreator.org](http://info007.venturecreator.org)  
+**_The Initial Projects_**
 
 ### Daughter Venture Creators = expansion mechanism to help communities and countries to be sovereign
 

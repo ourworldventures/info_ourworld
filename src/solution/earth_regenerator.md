@@ -1,4 +1,8 @@
+![](img/earthregen.png)
+
 # Earth Regenerator
+
+![](img/benefits_earthregen.png)
 
 - TODO
   - [ ] pictures from presentation(s)

@@ -19,20 +19,20 @@ This fact sheet is based on the existing duly issued convertible loan note issue
 - Custody / Bank
     - Afrasia Bank
 
-## Investment Policy
+## Project Financing
 
-### Venture Creator  Funding Strategy
+### Funding Strategy
     
 - Phase 1: 
   - Through a Convertible Loan Agreement which will convert into a Convertible Digital Bond Structure issued by the ultimate parent company (see Section 1) we want to connect Investors to exciting Ventures with a real purpose and driving mass adoption of the OurWorld technology portfolio. OurWorld Holding is fundraising 30m USD as Convertible Bond which gives the investor the right to convert into shares with discounts and the further option to swap into any specific Venture launched by the Venture Creator or the Venture Creator itself; all subject to specific offering terms issued by OurWorld Holding.
-- Phase 2: 
-  - OurWorld Holding has a lot of projects lined up for the future, once the initial phase of funding is completed OurWorld Holding intends to fundraise an additional 30 million USD to complete on phase 2 of growth. Also this round may be structured as an extension to the Convertible Loan Note instrument or another suitable investment vehicle.  
+- Phase 2: optinal 30m USD additional fndrase
+  - OurWorld Holding has a lot of projects lined up for the future, once the initial phase of funding is completed OurWorld Holding might fundraise an additional 30 million USD to complete on phase 2 of growth. Also this round may be structured as an extension to the Convertible Loan Note instrument or another suitable investment vehicle.  
 - Phase 3: 
   - In parallel to phase 1 and 2, OurWorld Holding has initiated and is preparing for "Commons" based infrastructure projects around Planet and People first Energy Generation, Safe Internet Capacity, Earth Regeneration, Food, Water Safety, e-Education and e-Health. We are working with partners to structure vehicles that could mobilize significant capital investment and return for and on these  “Commons”. Once the projects are operational and providing return, community owned cooperative structures will buy back the shares of these projects as well as from our Venture Creator.
 
-### Venture Investment Strategy
+### We work value based
 
-- To realize our vision we invest in Ventures which provide a piece of the puzzle. Each venture has to agree with our values which are 
+- To realize our vision we invest and/or collaborate with Ventures which provide a piece of the puzzle. Each venture has to agree with our values which are 
   - Planet First
     - The health of our planet cannot be ignored.Every action we do as a group needs to have the best interests for our planet.
   - People First
@@ -41,7 +41,7 @@ This fact sheet is based on the existing duly issued convertible loan note issue
 - The ventures we foster span a broad spectrum of industry sectors (from internet infrastructure, special economic zones, AI, e-education, e-Health, earth regeneration, cross-border payments and remittance, amongst others) and are chosen for their interoperability and potential synergies with other projects within our portfolio and their alignment with our vision. 
 - We want to use our experience and existing technology to help startups to make progress faster.
 
-### Venture Investment Criteria & Project Feasibility
+### Project Feasibility
  
 Criteria assessed include:
 
@@ -124,6 +124,7 @@ Exit Decision-Making Process:
 Given OurWorld's strategy of supporting innovative technology ventures, these ventures are exposed to a wide range of risks. Some can be proactively managed or mitigated through strategic measures, while others are inherent to the nature of the ventures or driven by external factors beyond OurWorld's control. This list of risks presented herein is grouped by their nature. A more detailed list of risks is disclosed as part of the venture blueprint. No representation is given on the completeness of risks, and the risks are not in the order of their significance. All risks may either lead to (1) a slight or substantial delay in the development of the ventures, (2) additional development costs due to extended timelines and/or conceptual changes, or (3) a reduced or even complete loss of return potential through exit.
 
 **Risks related to OurWorld**
+
 OurWorld incubates and grows innovative, early-stage ventures within the rapidly evolving technology sector. This leads to a high degree of unpredictability due to rapid changes in technology, legal requirements, market dynamics, and emerging innovations. Also, there's a significant exposure to external market-risks which could arise through sudden market shifts causing liquidity constraints and high volatility. In addition, the level of substantiation and the reliability of projected venture value is significantly lower due to the early-stage nature of the ventures, which may lead to temporary or permanent impairment.
 
 OurWorld manages those risks through: 

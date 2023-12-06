@@ -1,7 +1,5 @@
 # Components of the OurWorld OS
 
-All further described elements are delivered by our initial startups as described in: [http://info007.venturecreator.org](http://info007.venturecreator.org)   
-
 ## Co-Owned Complementary Internet 
 
 Over half of the world's population lacks adequate access to banking and high-quality Internet, but we can change that by providing these services for less than 1 USD per person per month. To achieve this, we must deploy our complimentary Internet platform in collaboration with everyone, this concept we call "BE THE INTERNET." A significant amount of progress has already been made towards this goal, as seen on [http://www.threefold.me](http://www.threefold.me) .
