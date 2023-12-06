@@ -8,7 +8,7 @@ OurVerse addresses the critical need for free, convenient access to authentic in
 
 ## How: Leveraging Decentralized Technology and AI
 
-OurVerse is built on a foundation of decentralized infrastructure  and AI, allowing for rapid and authentic access to information. It integrates advanced technologies like Proof-of-Authenticity and decentralized AI to enhance search efficiency and accuracy. The platform also supports various experiences, from maps to metaverse interfaces, ensuring a diverse and immersive information access experience.
+OurVerse is an all-in-one super app built on a foundation of decentralized and open-source infrastructures and AI, allowing for rapid and authentic access to information. It integrates advanced technologies like Proof-of-Authenticity and decentralized AI to enhance search efficiency and accuracy. The platform also supports various experiences, from maps to metaverse interfaces, ensuring a diverse and immersive information access experience.
 
 ## What: The OurVerse Offering
 
