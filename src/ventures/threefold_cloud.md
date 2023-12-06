@@ -26,10 +26,10 @@ ThreeFold Cloud presents a unique portfolio of products, leveraging the decentra
 
 ## Business Model and Status  
 
-**Business Model:** Upsells open-source technology with a recurring revenue model, including OEM and channel deals. It also involves deploying solutions on top of the grid and selling them in USD, ETH, and BTC, with the aim to acquire as many TFT tokens as possible.
-**Market and Differentiators:** Targets the over $500 billion market for autonomous, edge, and sovereign infrastructure. Differentiates itself with a software-only approach, no CAPEX, and a 100% automated stack.
-**Progress and Status: **With its technology rolled out on a large scale, ThreeFold Cloud is now strengthening its executive team and commercially launching its solutions. It operates in 60 countries with its Generation 3 product, and an active community supports its expansion.
-**Status**: Active
+- **Business Model:** Upsells open-source technology with a recurring revenue model, including OEM and channel deals. It also involves deploying solutions on top of the grid and selling them in USD, ETH, and BTC, with the aim to acquire as many TFT tokens as possible.
+- **Market and Differentiators:** Targets the over $500 billion market for autonomous, edge, and sovereign infrastructure. Differentiates itself with a software-only approach, no CAPEX, and a 100% automated stack.
+- **Progress and Status: **With its technology rolled out on a large scale, ThreeFold Cloud is now strengthening its executive team and commercially launching its solutions. It operates in 60 countries with its Generation 3 product, and an active community supports its expansion.
+- **Status**: Active
 
 
 ## More Info:
