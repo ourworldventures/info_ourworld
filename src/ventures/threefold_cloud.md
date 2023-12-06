@@ -14,7 +14,7 @@ ThreeFold Cloud's business model is centered around building commercial offering
 
 The TF Grid is an unbreakable decentralized internet infrastructure that leverages TFTech's open-source Technology, with over 30,000,000 GB storage and 60,000 vCPU cores deployed by the community over 60+ countries. 
 
-See [ThreeFold Grid Capacity Explorer]((https://dashboard.grid.tf/explorer/statistics)). 
+See [ThreeFold Grid Capacity Explorer](https://dashboard.grid.tf/explorer/statistics). 
 
 ## What: ThreeFold Cloud's Offerings
 
