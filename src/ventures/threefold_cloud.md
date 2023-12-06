@@ -2,6 +2,17 @@
 
 ![](img/threefold_cloud.png)
 
+## Venture Highlights
+
+- **Overview**: ThreeFold Cloud is at the forefront of offering decentralized and sustainable cloud computing solutions.
+- **Mission**: To revolutionize cloud computing by providing secure, user-friendly, and environmentally sustainable cloud services.
+- **Problem**: The current cloud computing landscape is dominated by centralized solutions that often compromise on sustainability, security, and user sovereignty.
+- **Market Opportunity**: Targets the over $500 billion market for autonomous, edge, and sovereign infrastructure. Differentiates itself with a software-only approach, no CAPEX, and a 100% automated stack.
+- **Products and Services**: Decentralized cloud services utilizing the ThreeFold Grid, which provides storage and compute capacity in a secure, sustainable, and user-centric manner.
+- **Stage of Development**: Active and operational, with technology deployed globally and plans for expanding the team and service offerings.
+- **Key Differentiators**: Focuses on decentralization, sustainability, and security, offering a unique alternative to traditional cloud services with an emphasis on user sovereignty and environmental responsibility.
+- **Business Model:** Generates revenue through cloud service offerings, partnerships, and service fees, targeting a wide range of users from individual developers to large enterprises. It also involves deploying solutions on top of the grid and selling them in USD, ETH, and BTC, with the aim to acquire as many TFT tokens as possible.
+
 ## Why: Transforming Cloud Computing and Digital Infrastructure
 
 ThreeFold Cloud aims to transform the landscape of cloud computing and digital infrastructure. It focuses on building commercial offerings on top of the [ThreeFold Grid](https://dashboard.grid.tf/explorer/statistics)(TF Grid), a globally-distributed grid of storage, compute, and network capacity, acting as “no middleman” Internet resources between independent capacity providers and users. This approach addresses the centralized, complex, and unsustainable nature of today's internet, bringing forth a solution that respects user sovereignty and promotes scalability.
@@ -37,14 +48,6 @@ Furthermore, ThreeFold Cloud is looking forward to host the following solutions:
   - A web framework which allows you to efficiently publish any website at high quality.
   - A wiki framework, chat support system & YouTube alternative.
   - An ecommerce platform based on Bitcoin Lightning.
-
-## Business Model and Status  
-
-- **Business Model:** Upsells open-source technology with a recurring revenue model, including OEM and channel deals. It also involves deploying solutions on top of the grid and selling them in USD, ETH, and BTC, with the aim to acquire as many TFT tokens as possible.
-- **Market and Differentiators:** Targets the over $500 billion market for autonomous, edge, and sovereign infrastructure. Differentiates itself with a software-only approach, no CAPEX, and a 100% automated stack.
-- **Progress and Status:** With its technology rolled out on a large scale, ThreeFold Cloud is now strengthening its executive team and commercially launching its solutions. It operates in 60 countries with its Generation 3 product, and an active community supports its expansion.
-- **Status**: Active
-
 
 ## More Info:
 
