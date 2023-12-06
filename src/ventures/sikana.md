@@ -1,7 +1,7 @@
 
 # Sikana
 
-![](img/sikana.png)
+![](img/sikana_intro.png)
 
 ## Why: Transforming Education for Young Individuals
 
