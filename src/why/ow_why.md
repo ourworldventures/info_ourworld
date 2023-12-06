@@ -13,6 +13,7 @@ We exists to resolve the following concrete issues:
 - [Food is no Longer Food](food_no_longer_food.md)
 - [Migration to Cities is inhumane](migration_to_cities.md)
 - [Shortage for Electricity](electricity_shorage.md)
+- [Emerging countries are being extracted](extraction.md)
 
 ### Our Earth Regenerator helps nature & countries.
 
