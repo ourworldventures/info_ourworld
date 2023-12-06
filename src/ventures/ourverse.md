@@ -30,6 +30,7 @@ A better world is one where we all have access to endless information and oppurt
 
 OurVerse stands as a transformative venture in the digital world, offering a new paradigm in how we access, publish, and trust information. It embodies a future where information is not only freely accessible but also authenticated and diverse in its presentation, backed by a robust, decentralized technological framework.
 
+## More Info:
 
-Website: [ourverse.tf](https://ourverse.tf/)
+- Website: [ourverse.tf](https://ourverse.tf/)
 
