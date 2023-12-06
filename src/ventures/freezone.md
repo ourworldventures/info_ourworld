@@ -1,5 +1,7 @@
 # OurWorld Free Zone
 
+![](img/new_world.png)
+
 ## Why: Simplifying Business Operations
 
 The Digital FreeZone addresses the complexities that digital nomads and small to medium enterprises (SMEs) face in today’s global economy. Challenges such as regulatory compliance, transparency, and tax-related issues can be significant obstacles for these groups, impeding their ability to operate efficiently and grow.
