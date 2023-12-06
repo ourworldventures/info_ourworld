@@ -18,11 +18,25 @@ See [ThreeFold Grid Capacity Explorer](https://dashboard.grid.tf/explorer/statis
 
 ## What: ThreeFold Cloud's Offerings
 
-ThreeFold Cloud presents a unique portfolio of products, leveraging the decentralized and autonomous ThreeFold Grid. The offerings are tailored to meet the growing demands for secure, scalable, and easy-to-use cloud solutions in various sectors, including AI and digital services.
+ThreeFold Cloud presents a unique portfolio of products, leveraging the decentralized and autonomous ThreeFold Grid. The offerings are tailored to meet the growing demands for secure, scalable, and easy-to-use cloud solutions in various sectors, including AI and digital services. ThreeFold Cloud’s Customers will be able to pay using fiat (e.g. credit card) and digital currencies. 
+
+Products and Services include: 
 
 - **Private Virtual Datacenter**: Aimed at advanced system administrators, this service focuses on development and test workloads. It includes key features such as VM as a Service, Web Gateway, and secure networking solutions. It is provisioned through a digital twin using secure scripts, enhancing security and ease of use. The product emphasizes decentralized operations, strong authentication, and an upcoming user-friendly portal, all while offering a variety of payment options, including traditional and digital currencies.
 - **Private AI**: Provides access to a large network of NVIDIA and AMD GPUs, making it a suitable platform for AI developers and researchers. AI frameworks can be deployed swiftly, emphasizing simplicity and cost-effectiveness. The service highlights decentralized access to GPUs, offering an efficient and scalable solution for private AI projects.
 - **AYA (Launching Q1 2024)**: AYA is positioned as an all-encompassing digital assistant, integrated with the digital freezone and based on advanced digital twin technology. The presale initiative and its integration with the Digital FreeZone are key highlights, showcasing its potential for convenience and unmatched digital sovereignty.
+
+Furthermore, ThreeFold Cloud is looking forward to host the following solutions:
+- Two wonderful metaverse projects, including [VVerse](https://www.vverse.co/) (See latest rendering capabilities [here](https://vimeo.com/888463280/1cd23bf165?share=copy)) and [Artheon](https://threefold.io/partners/artheon/).  
+- [Sikana digital](sikana.tv), an education platform with billions of views. 
+- Some exciting products for developers will be launched:
+  - https://supabase.com/, an alternative to Firebase.
+  - https://gitea.com/, an alternative to github.
+  - https://livekit.io/, a super cool platform for webrtc video conferencing for developers.
+- Some products for web publishers will be launched:
+  - A web framework which allows you to efficiently publish any website at high quality.
+  - A wiki framework, chat support system & YouTube alternative.
+  - An ecommerce platform based on Bitcoin Lightning.
 
 ## Business Model and Status  
 
