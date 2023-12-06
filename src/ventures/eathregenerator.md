@@ -32,3 +32,4 @@ The Earth Regenerator takes a multifaceted approach:
 - **Renewable Energy Production**: The biomass produced is used for generating renewable energy, aligning with global sustainability goals.
 
 This venture represents a step towards a more sustainable and environmentally conscious future, offering a promising solution to some of the most pressing environmental issues of our time.
+
