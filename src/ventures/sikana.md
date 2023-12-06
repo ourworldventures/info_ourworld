@@ -13,6 +13,8 @@ Sikana operates as an ecosystem where individuals co-own, design, produce, and d
 
 ## What: Sikana's Offerings and Achievements
 
+![](img/sikana_os.png)
+
 - Educational Video Programs: Sikana equips people with practical skills through free educational video programs, covering a diverse range of subjects.
 - Business Model: Sikana operates on a recurring revenue model, ensuring sustainability and scalability of its educational offerings.
 - Target Market: Targeting 3 billion young individuals worldwide who lack complementary education, with a focus on expanding into e-health.
