@@ -17,15 +17,15 @@ OurPhone offers an ultra-secure mobile device that ensures unmatched data protec
 - Mycelium Network: Hosted on the ThreeFold's end-to-end encrypted network, designed to find the shortest path between peers and nodes to   offer unparalleled security and privacy for user data​​.
 - Edge Computing: Powered by the latest edge cloud technology for unmatched application performance​​.
 
-
-What: The OurPhone Offerings
+## What: The OurPhone Offerings
 
 Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone.
 
 ![](img/ourphone_offering.png)
 
-|Model|X|Y|A|
+|Model|OurPhone X|OurPhone Y|OurPhone A|
 |---|---|---|---|
+||![](img/ourphone_X.png)|![](img/ourphone_Y.png)|![](img/ourphone_A.png)|
 |Display|6.7-inch QHD+ Quad High Definition|6.3-inch FHD+ Full High Definition|6.1-inch FHD+ Full High Definition|
 |Camera|Triple rear camera system: Wide, ultrawide, 2 telephoto lens|Dual rear camera system: Wide, ultrawide lens|Dual rear camera system:
 Wide, ultrawide lens|
