@@ -31,9 +31,9 @@ Wide, ultrawide lens|
 |Memory|12Gb RAM|8Gb RAM|6Gb RAM|
 |Battery|5000 mAh3, Fast wireless charging|4355 mAh3, Fast wireless charging|4410 mAh3|
 
-- Business Model: OurPhone offers three phone categories priced between $500-$1200, with a 20-30% margin on the phone, and recurring monthly fees of $20 per person per month.
-- Market and Differentiator: The primary market includes security-conscious organizations and individuals. The superior security features, traditionally found in high-cost devices, are now made accessible to a wider audience.
-Current Status and Future Plans: The product specifications and features have been tested, and plans are underway for a crowdfunding campaign following funding.
+- **Business Model**: OurPhone offers three phone categories priced between $500-$1200, with a 20-30% margin on the phone, and recurring monthly fees of $20 per person per month.
+- **Market and Differentiator**: The primary market includes security-conscious organizations and individuals. The superior security features, traditionally found in high-cost devices, are now made accessible to a wider audience.
+- **Current Status and Future Plans**: The product specifications and features have been tested, and plans are underway for a crowdfunding campaign following funding.
 
 OurPhone represents a significant advancement in smartphone technology, focusing on user sovereignty, data protection, and privacy. It stands out in the market for its innovative features and its commitment to providing a decentralized, secure, and user-centric mobile experience.
 
