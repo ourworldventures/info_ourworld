@@ -25,7 +25,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 |Model|OurPhone X|OurPhone Y|OurPhone A|
 |---|---|---|---|
-||![](img/ourphone_X.png)|![](img/ourphone_Y.png)|![](img/ourphone_A.png)|
+||![](img/OurPhone_X.png)|![](img/ourphone_Y.png)|![](img/ourphone_A.png)|
 |Display|6.7-inch QHD+ Quad High Definition|6.3-inch FHD+ Full High Definition|6.1-inch FHD+ Full High Definition|
 |Camera|Triple rear camera system: Wide, ultrawide, 2 telephoto lens|Dual rear camera system: Wide, ultrawide lens|Dual rear camera system:
 Wide, ultrawide lens|
