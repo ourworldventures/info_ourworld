@@ -1,6 +1,6 @@
 # ThreeFold
 
-![](img/threefold_architecture)
+![](img/threefold_architecture.png)
 
 ## Why: Revolutionizing Internet Infrastructure for a Sustainable Future
 
