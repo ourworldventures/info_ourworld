@@ -24,7 +24,7 @@ A better world is one where we all have access to endless information and oppurt
 - **Our MetaVerse**: Extends real-world experiences into the metaverse, integrating open-source partner solutions.
 - **OurLibrary:** Offers access to petabytes of information, tailored for each community.
 - **Resilience and Authenticity:** Works even during internet outages, provides faster searches with less manipulation, and ensures proof of authenticity.
-- **Business Model**" Recurring Revenue
+- **Business Model**: Recurring Revenue.
 - **Market and Differentiators**: Digital-savvy customers seeking for sovereign, secure and convenient all-in-one solutions. An extensive legislative framework with advanced tech base and regulatory support in Zanzibar and Mauritius. 
 - **Status**: In development, not yet active.
 
