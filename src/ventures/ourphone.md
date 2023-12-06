@@ -36,8 +36,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 |---|---|---|---|
 ||![](img/ourphone_x.png)|![](img/ourphone_y.png)|![](img/ourphone_a.png)|
 |Display|6.7-inch QHD+ Quad High Definition|6.3-inch FHD+ Full High Definition|6.1-inch FHD+ Full High Definition|
-|Camera| Triple rear camera system: Wide, ultrawide, 2 telephoto lens|Dual rear camera system: Wide, ultrawide lens|Dual rear camera system:
-Wide, ultrawide lens|
+|Camera| Triple rear camera system: Wide, ultrawide, 2 telephoto lens|Dual rear camera system: Wide, ultrawide lens|Dual rear camera system: Wide, ultrawide lens|
 |Processor|Google Tensor G2|Google Tensor G2|Google Tensor|
 |Memory|12Gb RAM|8Gb RAM|6Gb RAM|
 |Battery|5000 mAh3, Fast wireless charging|4355 mAh3, Fast wireless charging|4410 mAh3|
