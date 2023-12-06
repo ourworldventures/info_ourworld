@@ -24,14 +24,12 @@ A better world is one where we all have access to endless information and oppurt
 - **Our MetaVerse**: Extends real-world experiences into the metaverse, integrating open-source partner solutions.
 - **OurLibrary:** Offers access to petabytes of information, tailored for each community.
 - **Resilience and Authenticity:** Works even during internet outages, provides faster searches with less manipulation, and ensures proof of authenticity.
+- **Business Model**" Recurring Revenue
 - **Market and Differentiators**: Digital-savvy customers seeking for sovereign, secure and convenient all-in-one solutions. An extensive legislative framework with advanced tech base and regulatory support in Zanzibar and Mauritius. 
-- **Status**: While in development, OurVerse leverages its technology stack for speed and efficiency, awaiting further funding for general product availability.
+- **Status**: In development, not yet active.
 
 OurVerse stands as a transformative venture in the digital world, offering a new paradigm in how we access, publish, and trust information. It embodies a future where information is not only freely accessible but also authenticated and diverse in its presentation, backed by a robust, decentralized technological framework.
 
 
 Website: [ourverse.tf](https://ourverse.tf/)
 
-Status: Not Yet Active
-
-![alt_text](img/ourverse1.png)
