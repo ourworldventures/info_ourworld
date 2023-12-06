@@ -10,10 +10,10 @@
 - **Problem**: Excessive CO2 emissions, chemical fertilizers, fossil fuel reliance, nutrient waste, and ecosystem degradation pose significant environmental challenges.
 - **Market Opportunity**: Photobioreactors provide a multifaceted solution, absorbing CO2, producing high amounts of biofertilizers, biomass for renewable energy, and restoring ecosystems.
 - **Products and Services** Organic bio-fertilizers with energy as side output. 
-- **Stage of Development**: Technology exists, proof of concept completed, seeking further funding for team expansion and commercialization.
-- **Key Differentiators**: High ROI model and multiple revenue streams;  ROI achieved within two years for the first bioreactor.
-- **Business Model**: Open-source technology with revenue from commercial licenses and sales of organic fertilizers/ energy output.
-
+- **Stage of Development**: The technology is already in existence with proof of concept completed. The venture is currently awaiting additional funding to build a team and commercialize the technology further.
+- **Key Differentiators**: The Earth Regenerator appeals to markets such as sovereign funds and the carbon market. Its high ROI model and multiple revenue streams set it apart from other bioreactor technologies.
+- **Open Source Business Model**: All technology, software, and knowledge related to the Earth Regenerator are open-source. Commercial licenses generate revenue, with the return on investment for the first bioreactor achieved in under two years.
+- 
 ## Why: Addressing Environmental Challenges 
 
 The Earth Regenerator addresses critical environmental challenges that our planet faces today. Excessive CO2 emissions, reliance on chemical fertilizers and fossil fuels, nutrient waste, and ecosystem degradation pose significant threats to the Earth's health. These issues require innovative solutions to restore balance and sustainability to our environment.
@@ -28,10 +28,7 @@ The solution lies in the advanced use of photobioreactor technology. Photobiorea
 
 The Earth Regenerator takes a multifaceted approach:
 
-- **Environmental Restoration**: By absorbing CO2 and producing biofertilizers, it contributes significantly to environmental healing.
+- **Environmental Restoration**: By absorbing CO2 and producing biofertilizers, biochar and algea it contributes significantly to environmental healing.
 - **Renewable Energy Production**: The biomass produced is used for generating renewable energy, aligning with global sustainability goals.
-- **Open Source Business Model**: All technology, software, and knowledge related to the Earth Regenerator are open-source. Commercial licenses generate revenue, with the return on investment for the first bioreactor achieved in under two years.
-- **Market and Differentiator**: The Earth Regenerator appeals to markets such as sovereign funds and the carbon market. Its high ROI model and multiple revenue streams set it apart from other bioreactor technologies.
-- **Status**: The technology is already in existence with proof of concept completed. The venture is currently awaiting additional funding to build a team and commercialize the technology further.
 
 This venture represents a step towards a more sustainable and environmentally conscious future, offering a promising solution to some of the most pressing environmental issues of our time.
