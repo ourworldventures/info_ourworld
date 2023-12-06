@@ -4,14 +4,14 @@
 
 ## Venture Highlights
 
-Overview: OurVerse is an all-encompassing digital platform that integrates various essential online tools and services, creating a unified digital experience.
-Mission: To provide a seamless and sovereign digital world by merging key digital tools like chat, video conferencing, personal cloud, streaming, browsing, maps, and wallet into one super app.
-Problem: The fragmentation of digital tools and services across multiple platforms, leading to inefficiencies and challenges in maintaining digital sovereignty and privacy.
-Market Opportunity: Catering to the growing global demand for integrated digital solutions, particularly among internet users seeking a comprehensive and user-friendly digital environment.
-Products and Services: A single platform offering a range of digital tools including chat, video conferencing, personal cloud, streaming services, a private browser, and more, with additional features like maps and a digital wallet.
-Stage of Development: Currently in development, with plans for further expansion and enhancement of services upon securing additional funding.
-Key Differentiators: Digital-savvy customers seeking for sovereign, secure and convenient all-in-one solutions. By uniquely combining a wide array of digital tools in a single platform, focusing on user sovereignty, privacy, and ease of use, OurVerse is geared to support the self-sovereign age.
-Business Model: Currently undisclosed, likely to include a recurring revenue/ subscription model or monetization through integrated services.
+- **Overview**: OurVerse is an all-encompassing digital platform that integrates various essential online tools and services, creating a unified digital experience.
+- **Mission**: To provide a seamless and sovereign digital world by merging key digital tools like chat, video conferencing, personal cloud, streaming, browsing, maps, and wallet into one super app.
+- **Problem**: The fragmentation of digital tools and services across multiple platforms, leading to inefficiencies and challenges in maintaining digital sovereignty and privacy.
+- **Market Opportunity**: Catering to the growing global demand for integrated digital solutions, particularly among internet users seeking a comprehensive and user-friendly digital environment.
+- **Products and Services**: A single platform offering a range of digital tools including chat, video conferencing, personal cloud, streaming services, a private browser, and more, with additional features like maps and a digital wallet.
+- **Stage of Development**: Currently in development, with plans for further expansion and enhancement of services upon securing additional funding.
+- **Key Differentiators**: Digital-savvy customers seeking for sovereign, secure and convenient all-in-one solutions. By uniquely combining a wide array of digital tools in a single platform, focusing on user sovereignty, privacy, and ease of use, OurVerse is geared to support the self-sovereign age.
+- **Business Model**: Currently undisclosed, likely to include a recurring revenue/ subscription model or monetization through integrated services.
 
 ## Why: Restoring Value and Access to Information
 
