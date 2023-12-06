@@ -1,4 +1,4 @@
-# ThreeFold
+# ThreeFold Tech
 
 ![](img/threefold_architecture.png)
 
