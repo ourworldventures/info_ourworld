@@ -6,4 +6,4 @@ In many locations this problem is resolved by using plastic bottles and ship the
 
 
 
-Read more about our solutution [here](ow/solution/drinking_water.md)
+Read more about our solutution [here](solution/drinking_water.md)
