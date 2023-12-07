@@ -9,6 +9,7 @@ Together we are creating a multi-faceted platform to support and empower startup
 
 We believe the current projects may have the potential to bring true sovereignty.
 
+> OurWorld Venture Creator is committed to investing in its startups as funding becomes available. This investment process will adhere strictly to the necessary governance procedures established by the Investment Committee.
 
 ## OurWorld Venture Creator is a platform
 
