@@ -1,6 +1,6 @@
-# Water & Land Erosion
-
 ![](img/erosion.png)
+
+# Water & Land Erosion
 
 Soil and water erosion pose a significant threat to global food security and ecosystem health. A comprehensive global study, encompassing over 35 million observations, shows soil erosion rates varying considerably across country borders. This variation underscores the substantial impact of agricultural policies and practices on erosion rates, emphasizing the need for sustainable land management.
 

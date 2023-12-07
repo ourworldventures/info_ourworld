@@ -1,8 +1,12 @@
-# Water & Plastic
 
 ![](img/plastic_water.jpeg)
 
-Emerging research, including insights from Clean Water Action and Earth.org, underscores a growing health crisis stemming from plastic in water. Microplastics and toxins from plastic bottles are contaminating our water sources, posing significant risks to human health.
+
+# Water & Plastic
+
+Emerging research, including insights from Clean Water Action and Earth.org, underscores a growing health crisis stemming from plastic in water. 
+
+Microplastics and toxins from plastic bottles are contaminating our water sources, posing significant risks to human health.
 
 ## Unseen Dangers: Microplastics in Our Water
 
@@ -19,3 +23,4 @@ Immediate solutions are essential. Improving water quality and reducing plastic 
 ## Pathways to a Healthier Future: Sustainable Water and Waste Practices
 
 Encouraging recycling, eco-friendly materials, and advanced water filtration systems are key steps toward a sustainable and healthy future.
+

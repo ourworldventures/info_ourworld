@@ -1,6 +1,6 @@
-# Food is no longer food.
-
 ![](img/pesticide.webp)
+
+# Food is no longer food.
 
 Over the last hundred years, the nutritional value of our food has seen a significant decline. This decrease is largely attributed to the extensive use of chemical fertilizers, which, while increasing crop yields, have led to soil degradation and nutrient depletion. Consequently, the food produced on such soils lacks essential minerals and nutrients, contributing to widespread health issues and global mineral deficiencies.
 

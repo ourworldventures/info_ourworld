@@ -8,11 +8,11 @@ We exists to resolve the following concrete issues:
 
 - [We don't help our kids](help_our_kids.md)
 - [Countries don't have their own Internet](countries_have_no_internet.md)
-- [Datacenters are wrongly built.](improve_datacenters.md)
 - [Shortage of Electricity](electricity_shortage.md)
 - [Access to Clean Water](water.md)
+- [Datacenters are wrongly built.](improve_datacenters.md)
 - [Emerging countries are being extracted](extraction.md)
-- [Water & Land Erosion](land_erosion.md)
+- [Land Erosion](land_erosion.md)
 - [Food is no Longer Food](food_no_longer_food.md)
 - [Migration to Cities is inhumane](migration_to_cities.md)
 - [Extraction Capitalism](extraction.md)

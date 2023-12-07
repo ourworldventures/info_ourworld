@@ -1,6 +1,6 @@
-# Migration to Cities?
-
 ![](img/migration.jpeg)
+
+# Migration to Cities?
 
 Urban migration isn't just about seeking better opportunities; it's often a survival strategy in response to environmental degradation and economic necessity. Detailed demographic studies reveal significant portions of rural populations moving to cities annually, reshaping economic and social landscapes.
 
