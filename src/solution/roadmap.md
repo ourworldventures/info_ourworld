@@ -1,5 +1,7 @@
 ## Roadmap
 
+![](../ventures/img/roadmap.png)
+
 ### Step 1a: sell some initial Tier S Datacenters.
 
 Use the available funding for datacenters in countries (Africa and maybe South America) to build Tier S Datacenters instead with special attention for how to cleanly generate the electricity, we have a multitude of options available.
