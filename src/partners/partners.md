@@ -3,7 +3,7 @@
 # Strategic Partners
 
 
-OurWorld and its ventures work together with partners to be able to deliver and end2end viable solution.
+OurWorld and its ventures work together with partners to be able to deliver and end2end regenerative solution.
 
 <style>
 table {
