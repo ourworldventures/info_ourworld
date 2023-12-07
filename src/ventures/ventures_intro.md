@@ -25,6 +25,12 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 
 ## Our Active Ventures
 
+<style>
+table {
+  float: left;
+}
+</style>
+
 
 |                          | ThreeFold | Sikana | OurVerse | Earth Regenerator |
 |--------------------------|:---------:|:------:|:--------:|:-----------------:|

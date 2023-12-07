@@ -37,6 +37,15 @@ We need a shift from centralization to community based working.
 
 ### Solution Matrix
 
+
+<style>
+table {
+  float: left;
+}
+</style>
+
+
+
 |                          | ThreeFold | Sikana | OurVerse | earth regenerator |
 |--------------------------|:---------:|:------:|:--------:|:-----------------:|
 | help our kids, education |     Y     |    Y   |     Y    |                   |
