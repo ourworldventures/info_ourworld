@@ -7,7 +7,7 @@
 ## Venture Highlights
 
 - **Overview**: The Earth Regenerator harnesses photobioreactor technology for environmental restoration and renewable energy production.
-- **Mission**: To enable universal access to perfect drinking water through innovative photobioreactor technology for environmental restoration and renewable energy production.
+- **Mission**: To enable universal access to organic fertilizers through innovative photobioreactor technology for environmental restoration and renewable energy production.
 - **Problem**: Excessive CO2 emissions, chemical fertilizers, fossil fuel reliance, nutrient waste, and ecosystem degradation pose significant environmental challenges.
 - **Market Opportunity**: Photobioreactors provide a multifaceted solution, absorbing CO2, producing high amounts of biofertilizers, biomass for renewable energy, and restoring ecosystems.
 - **Products and Services** Organic bio-fertilizers with energy as side output. 
