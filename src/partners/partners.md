@@ -18,7 +18,20 @@ OurWorld and its ventures work together with partners to be able to deliver and 
 | stop migration to cities |   Y    |        Y         |   Y    |
 |                          |        |                  |        |
 
-Our Own Companies deliver part of the solution as well:
+
+All our partners agree to work in line with our values
+
+- planet first
+- people first
+
+and corresponding mechanisms
+
+- authenticity
+- opensource
+- simplicity
+
+
+### Our Own Companies deliver part of the solution as well:
 
 
 |                          | ThreeFold | Sikana | OurVerse | earth regenerator |
