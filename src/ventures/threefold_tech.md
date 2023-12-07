@@ -14,9 +14,9 @@
 - **Business Model**: Licensing and supporting specific deployments, such as [Tier-S data centers](https://info.ourworld.tf/datacenter/datacenter/intro/intro.html), with an OEM strategy for broader market access.
 - **Planned Exit**: M&A +500m USD (preferred option) or Recurring revenue streams (priv equity, or stock exchange)
 
-## Why: Revolutionizing Internet Infrastructure for a Sustainable Future
+## Why: The current Internet got hyjacked
 
-TFTech is addressing the urgent need for a more sustainable, efficient, and autonomous internet infrastructure. With the global internet infrastructure market rapidly expanding and demanding energy-efficient features, TFTech recognizes the limitations of existing centralized, complex, and power-hungry solutions. Their revolutionary platform is poised to disrupt the market, catering to industries like AI, IoT, cloud computing, and autonomous vehicles, among others. This venture aims to enable a world where individuals and organizations can operate in a safe, sovereign, scalable, and energy-efficient digital environment, challenging the status quo of internet and cloud infrastructure.
+TFTech is addressing the urgent need for a more sustainable, efficient, and autonomous internet infrastructure. With the global internet infrastructure market rapidly expanding and demanding energy-efficient features, TFTech recognizes the limitations of existing highly centralized, complex, and power-hungry solutions. The platform is ideally positioned to support emerging industries such as AI, IoT, cloud computing, and much more. TFTech aims to enable a world where individuals and organizations can operate in a safe, sovereign, scalable, and energy-efficient digital environment.
 
 ## How: Laying out the foundation for a Truly Decentralized World 
 
