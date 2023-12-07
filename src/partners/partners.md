@@ -5,6 +5,13 @@
 
 OurWorld and its ventures work together with partners to be able to deliver and end2end viable solution.
 
+<style>
+table {
+  float: left;
+}
+</style>
+
+
 |                          | WayOut | Freyr  Batteries | VVerse |
 | ------------------------ | :----: | :--------------: | :----: |
 | help our kids, education |        |                  |   Y    |
