@@ -13,9 +13,9 @@
 - **Key Differentiators**: Focuses on decentralization, sustainability, and security, offering a unique alternative to traditional cloud services with an emphasis on user sovereignty and environmental responsibility.
 - **Business Model:** Generates revenue through cloud service offerings, partnerships, and service fees, targeting a wide range of users from individual developers to large enterprises. It also involves deploying solutions on top of the grid and selling them in USD, ETH, and BTC, with the aim to acquire as many TFT tokens as possible.
 
-## Why: Transforming Cloud Computing and Digital Infrastructure
+## Why: Empowering a More Equitable Digital Future
 
-ThreeFold Cloud aims to transform the landscape of cloud computing and digital infrastructure. It focuses on building commercial offerings on top of the [ThreeFold Grid](https://dashboard.grid.tf/explorer/statistics)(TF Grid), a globally-distributed grid of storage, compute, and network capacity, acting as “no middleman” Internet resources between independent capacity providers and users. This approach addresses the centralized, complex, and unsustainable nature of today's internet, bringing forth a solution that respects user sovereignty and promotes scalability.
+A decentralized autonomous internet is important because it enhances user privacy and security, reduces the risk of data monopolies, and increases resilience against outages and censorship. By distributing data across a network of independent nodes, it ensures no single entity has control or access to all information, fostering a more democratic and equitable digital landscape. This decentralized model promotes innovation, as it offers a more open and accessible platform for developers and users alike.
 
 ## How: Ultra-efficent and fully Autonomous Cloud Platform
 
@@ -29,7 +29,7 @@ See [ThreeFold Grid Capacity Explorer](https://dashboard.grid.tf/explorer/statis
 
 ## What: ThreeFold Cloud's Offerings
 
-ThreeFold Cloud presents a unique portfolio of products, leveraging the decentralized and autonomous ThreeFold Grid. The offerings are tailored to meet the growing demands for secure, scalable, and easy-to-use cloud solutions in various sectors, including AI and digital services. ThreeFold Cloud’s Customers will be able to pay using fiat (e.g. credit card) and digital currencies. 
+ThreeFold Cloud is building a unique set of products on the decentralized and autonomous ThreeFold Grid to meet the growing demands for secure, scalable, and easy-to-use cloud solutions in various sectors, including AI and digital services. ThreeFold Cloud’s Customers will be able to pay using fiat (e.g. credit card) and digital currencies. 
 
 Products and Services include: 
 
