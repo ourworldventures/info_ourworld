@@ -8,6 +8,12 @@ Over the last hundred years, the nutritional value of our food has seen a signif
 
 The reliance on chemical fertilizers in modern agriculture has led to a paradox: an increase in food quantity but a decrease in its quality. This situation is exacerbating health issues related to nutritional deficiencies, impacting populations globally.
 
+Some experts predict that at current rates of erosion, we will run out of farmable soil in just 60 years, leading to:
+- Worsening health problems: more cancer, disease, and immune issues
+- Skyrocketing food costs as resources like clean water and soil grow scarce
+- Environmental devastation — butterfly, bee, and plant extinction is just the start
+- And eventually, in as little as two generations, for many people... NO FOOD
+
 ## Beyond the Plate: Wider Societal and Health Implications
 
 The degradation in food quality affects not just individual health but also societal well-being. Poor nutrition can lead to increased healthcare costs, reduced productivity, and heightened susceptibility to diseases, creating a ripple effect across communities.
