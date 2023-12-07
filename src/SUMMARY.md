@@ -29,6 +29,7 @@
 - [OurWorld Partners](ow/partners/partners.md)
     - [Freyr Batteries](ow/partners/freyr.md)
     - [WayOut](ow/partners/wayout.md)
+    - [VVerse](ow/partners/vverse.md)
 - [Restore the Commons](ow/restore/intro/restore_intro.md)
     - [Requirements](ow/restore/requirements/requirements.md)
     - [3-Fold Approach](ow/restore/approach/approach.md)
