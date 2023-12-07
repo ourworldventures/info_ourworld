@@ -1,6 +1,9 @@
-![](img/freyr1.png)
+
+![](img/freyr_factory.png)
 
 # Freyr Batteries
+
+![](img/freyr1.png)
 
 FREYR offers a clean Nordic solution to the rapidly growing global demand for high-density and cost-competitive battery cells for stationary energy storage (ESS), electric mobility, and marine applications.
 
