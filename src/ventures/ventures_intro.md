@@ -49,5 +49,3 @@ OurWorld venture creator aims to create a multifaceted platform that can be used
 
 ![alt_text](img/roadmap.png)
 
->TODO: roadmap
-
