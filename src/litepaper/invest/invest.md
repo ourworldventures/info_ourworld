@@ -1,10 +1,6 @@
 ![](img/5_reasons_invest.png)
 
-
-
 # Invest In OurWorld Venture Creator
-
-We are fundraising upto 30m EUR (min 20m EUR).
 
 Structure
 
