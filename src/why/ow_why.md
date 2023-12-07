@@ -11,7 +11,6 @@ We exists to resolve the following concrete issues:
 - [Shortage of Electricity](electricity_shortage.md)
 - [Access to Clean Water](water.md)
 - [Datacenters are wrongly built.](improve_datacenters.md)
-- [Emerging countries are being extracted](extraction.md)
 - [Land Erosion](land_erosion.md)
 - [Food is no Longer Food](food_no_longer_food.md)
 - [Migration to Cities is inhumane](migration_to_cities.md)
@@ -36,3 +35,32 @@ A new platform is needed which allows our young population to manage their futur
 
 We need a shift from centralization to community based working.
 
+### Solution Matrix
+
+|                          | ThreeFold | Sikana | OurVerse | earth regenerator |
+|--------------------------|:---------:|:------:|:--------:|:-----------------:|
+| help our kids, education |     Y     |    Y   |     Y    |                   |
+| sovereign internet       |     Y     |    Y   |     Y    |         Y         |
+| clean energy generation  |     Y     |        |          |         Y         |
+| clean drinking water     |     Y     |        |          |         Y         |
+| better datacenters       |     Y     |        |          |         Y         |
+| stop extraction of value |     Y     |    Y   |     Y    |         Y         |
+| regenerate land          |     Y     |        |     Y    |         Y         |
+| real food                |     Y     |    Y   |     Y    |         Y         |
+| stop migration to cities |     Y     |    Y   |     Y    |         Y         |
+|                          |           |        |          |                   |
+
+together with our partners we have the full set of solutions:
+
+|                          | WayOut | Freyr  Batteries | VVerse |
+|--------------------------|:------:|:----------------:|:------:|
+| help our kids, education |        |                  |    Y   |
+| sovereign internet       |    Y   |         Y        |    Y   |
+| clean energy generation  |        |         Y        |        |
+| clean drinking water     |    Y   |         Y        |        |
+| better datacenters       |        |         Y        |        |
+| stop extraction of value |    Y   |         Y        |    Y   |
+| regenerate land          |    Y   |         Y        |        |
+| real food                |        |                  |        |
+| stop migration to cities |    Y   |         Y        |    Y   |
+|                          |        |                  |        |
