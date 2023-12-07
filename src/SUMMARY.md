@@ -24,6 +24,7 @@
     - [ThreeFold Tech](ow/ventures/threefold_tech.md)
     - [OurWorld Free Zone](ow/ventures/freezone.md)
     - [Sikana](ow/ventures/sikana.md)
+    - [Earth Regenerator](ow/ventures/eathregenerator.md)
     - [OurVerse](ow/ventures/ourverse.md)
     - [OurPhone](ow/ventures/ourphone.md)
 - [OurWorld Partners](ow/partners/partners.md)

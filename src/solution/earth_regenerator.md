@@ -22,14 +22,4 @@ In this context, technological innovations like "The Earth Regenerator" are vita
   
 "The Earth Regenerator" is more than a technological solution; it's a step towards a future where the health of the soil and the ecosystem is a priority, ensuring sustainable and productive agriculture for generations to come.
 
-## More Info:
-
-- 
-
-- TODO
-  - [ ] pictures from presentation(s)
-  - [ ] get more info and put it in
-  - [ ] what is purpose how does it work, link back to images
-  - [ ] link to need2grow, ask people to see it
-
 
