@@ -4,7 +4,7 @@
 
 ## Venture Highlights
 
-- **Overview**: ThreeFold Cloud is at the forefront of offering decentralized and sustainable cloud computing solutions.
+- **Overview**: ThreeFold Cloud is at the forefront of offering decentralized, autonomous and highly energy efficent cloud (compute, storage, gpu, network) solutions.
 - **Mission**: To revolutionize cloud computing by providing secure, user-friendly, and environmentally sustainable cloud services.
 - **Problem**: The current cloud computing landscape is dominated by centralized solutions that often compromise on sustainability, security, and user sovereignty.
 - **Market Opportunity**: Targets the over $500 billion market for autonomous, edge, and sovereign infrastructure. Differentiates itself with a software-only approach, no CAPEX, and a 100% automated stack.
