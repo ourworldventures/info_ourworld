@@ -1,5 +1,7 @@
 # Migration to Cities?
 
+![](img/migration.jpeg)
+
 Many believe that this is inevitable, but why would this be?
 
 Urban migration is often driven by multiple factors, including land erosion, economic opportunities, and the search for better living standards. However, this shift can lead to a decreased quality of life, especially for those who end up at the lower end of the social hierarchy in busy cities. 
