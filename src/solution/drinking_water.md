@@ -8,9 +8,9 @@ Water, being fundamental to life, should not be a luxury or a challenge to obtai
 
 In this context, innovative solutions like those offered by WayOut are pivotal. [WayOut](https://wayout.com/)'s system, capable of producing up to 20,000 liters of high-quality water per day, demonstrates how technology can align with the ideals of sustainability, purity, and local sourcing. Such solutions are key to overcoming the global water crisis, ensuring that access to water is not a privilege, but a universal right. With such technologies and a global commitment to sustainable practices, the world can move towards a future where clean, safe water is a given for everyone, everywhere.
 
-![alt_text](img/wayout.png)
+## Wayout: An Innovative Soltuion for Clean, Pure Water
 
-The WayOut water system is an innovative solution for producing clean, sustainable drinking water. Here's how it works:
+![alt_text](img/wayout.png)
 
 - **Modular Production System**: The system can clean any source of water, making it safe for drinking and cooking. Each micro-factory is built locally, reducing transport costs and parts required.
 - **Treatment Process**: It uses a 12-step process for water treatment, including techniques such as sand filtration, reverse osmosis, and ultraviolet disinfection. This process not only cleans the water but also remineralizes it.
