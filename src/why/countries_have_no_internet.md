@@ -1,13 +1,14 @@
+![](img/country_no_internet.png)
+
+
 
 # Countries don't have their own internet.
 
-![](img/nointernet.png)
-
 We believe Internet is as important as Reading & Writing but amazingly enough in Africa only 1 out of 3 Women have access to Internet.
 
-### Countries have a long cable to the Internet.
+![](img/nointernet.png)
 
-![](img/country_no_internet.png)
+### Countries have a long cable to the Internet.
 
 The Internet was intended to be peer2peer but today this is no longer the case. The internet is seriously certralized if e.g. 2 people use Zoom they will probably be connected and services from a Datacenter in Europe, it just doesn't make sense.
 

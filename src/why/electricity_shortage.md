@@ -1,3 +1,5 @@
+![](img/electricity.png)
+
 ## The Electricity Crisis in Africa and beyong : A Call for Sustainable Solutions
 
 ### The Current State of Electricity in Africa
