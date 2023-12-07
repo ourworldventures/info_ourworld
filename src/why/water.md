@@ -1,10 +1,21 @@
 # Water & Plastic
 
-The issue of water scarcity and plastic waste is profound. Many regions lack access to clean water, yet the necessary technology to solve this problem exists. 
+![](img/plastic_water.jpeg)
 
-The prevalent solution of using plastic bottles, often transported from distant places, is environmentally unsustainable and contributes to significant plastic waste. This approach is not only impractical but also unnecessary, given the advancements in water purification and distribution technologies. Addressing this challenge requires adopting more sustainable and locally-focused water provision methods, reducing reliance on plastic bottles and minimizing ecological impact.
+Emerging research, including insights from Clean Water Action and Earth.org, underscores a growing health crisis stemming from plastic in water. Microplastics and toxins from plastic bottles are contaminating our water sources, posing significant risks to human health.
 
+## Unseen Dangers: Microplastics in Our Water
 
-Read more about our solutution [here](src/solution/drinking_water.md)
+Studies reveal alarming levels of microplastics in drinking water, with potential long-term health consequences. This issue extends beyond environmental concerns, directly impacting human well-being and public health.
 
-src/solution/drinking_water.md
+## Broader Implications: Environmental and Health Effects
+
+The proliferation of plastic in water systems affects ecosystems and poses risks to marine life, ultimately impacting human food sources and health.
+
+## Urgent Remedies: Safeguarding Our Water and Health
+
+Immediate solutions are essential. Improving water quality and reducing plastic use can significantly address these health risks. Emphasizing sustainable practices is crucial for public health.
+
+## Pathways to a Healthier Future: Sustainable Water and Waste Practices
+
+Encouraging recycling, eco-friendly materials, and advanced water filtration systems are key steps toward a sustainable and healthy future.
