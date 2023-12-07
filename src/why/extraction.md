@@ -1,6 +1,8 @@
-# Emerging countries are being extracted
+
 
 ![](img/mozambique-min.jpeg)
+
+# Emerging countries are being extracted
 
 Emerging countries are caught in a critical dilemma: the extensive extraction of natural resources and the steady exodus of their skilled workforce. While these nations are rich in resources like minerals and oil, the exploitation by multinational corporations often doesn't equate to local economic growth or improved living standards. This phenomenon, coupled with the large-scale migration of educated professionals seeking better opportunities abroad, significantly hampers the development potential of these regions.
 
