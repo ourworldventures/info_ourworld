@@ -31,6 +31,7 @@
     - [Freyr Batteries](ow/partners/freyr.md)
     - [WayOut](ow/partners/wayout.md)
     - [VVerse](ow/partners/vverse.md)
+- [Roadmap](ow/solution/roadmap.md)
 - [Restore the Commons](ow/restore/intro/restore_intro.md)
     - [Requirements](ow/restore/requirements/requirements.md)
     - [3-Fold Approach](ow/restore/approach/approach.md)
