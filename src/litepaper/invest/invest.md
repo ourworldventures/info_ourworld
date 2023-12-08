@@ -1,4 +1,4 @@
-![](img/5_reasons_invest.png)
+![](img/5_reasons_to_invest.png)
 
 # Invest In OurWorld Venture Creator
 
@@ -19,9 +19,13 @@ Imagine a funding mechanism which:
 
 OurWorld Venture Creator offers investors an attractive and flexible investment opportunity through a tokenized bond, with the potential to convert at a discounted rate into shares of OurWorld Venture Creator, TFTech or any of the other startups as created by the Venture Creator.
 
+## Do I have to be a big investor
+
+Certainly not, anyone who aligns with our mission and vision and is capable of investing over 50,000 USD is more than welcome to join us. We have already 90 investors right now, join our family.
+
 ## Concrete Status
 
-- 5m EUR termsheet signed: DAVG
+- 5m EUR termsheet signed: DAVG (Swiss/Lux fund)
   - DD (Due Dilligence) Done
   - We expect 5m EUR to arrive Q1 2024
 - 10m EUR investment agreement signed, with option for 20m
@@ -36,7 +40,7 @@ signed:
   - OurWorld will own 50%.
   - Expect initial funding for this project Q1 2024
 
-closing:
+last steps (planned forQ1 2024):
 
 - 5m EUR funding through JV for authentication & identity management
   - a better system for identity management, authentication and AI information management for asset recovery

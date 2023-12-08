@@ -3,14 +3,17 @@
 # OurWorld Venture Creator Experience
 
 **We love building companies:**
+
 - our previous Venture Creator was based in Belgium and was focused on creating meaningful technology for the Internet and Cloud. Some of the technologies created are still used today as products inside large companies like Verizon, Symantec and Western Digital.
 
 **OurWorld Venture Creator believes doing well and doing good go together.**
+
 - We are focused on creating technology which helps regenerate the planet and helps raise consciousness. We believe a new type of Internet needs to be created which provides equal chances for everyone and battles corruption while providing new opportunities.
 
 **50M already invested**
+
 - We are grateful that our community, founders and investors have invested +50m USD
-- including $30m as community funding for the ThreeFold Internet System.
+- including $15-20m as community funding for the ThreeFold Internet System.
 
 **We are looking for value added and value-aligned investors.**
 
