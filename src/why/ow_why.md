@@ -21,7 +21,7 @@ Together with our partners we have a lot of technology available to help:
 - Helps countries to become sovereign and and stops extraction of their resources.
 
 
-### Say no to Holywood and Big Investors
+### Let's dare to be different.
 
 We cannot create a new future by keep on doing what we have been doing before (Einstein).
 

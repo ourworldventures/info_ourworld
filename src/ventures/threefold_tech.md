@@ -4,28 +4,23 @@
 
 ## Venture Highlights 
 
-- **Overview**: ThreeFold Tech is a trailblazer in autonomous, decentralized, and sustainable internet and cloud infrastructure technology.
+- **Overview**: ThreeFold Tech is a trailblazer in autonomous, decentralized, and sustainable internet and cloud infrastructure technology (software).
 - **Mission**: To reshape the internet and cloud infrastructure landscape with a focus on decentralization, autonomy, and sustainability.
 - **Problem**: The centralized nature of current internet and cloud infrastructures leads to inefficiencies, security vulnerabilities, and a lack of sustainability.
 - **Market Opportunity**: Addressing a rapidly expanding global internet infrastructure market worth $Trillions, with demand in sectors like AI, IoT, cloud computing, and autonomous vehicles.
-- **Products and Services**: Decentralized Autonomous OS, Quantum Safe Storage, Edge Cloud Computing Platform, and Mycelium Network, together creating a comprehensive and autonomous cloud infrastructure solution.
-- **Stage of Development**: Technology rolled out on large scale, we now need to strengthen executive team and commercially launch our solutions.
-- **Key Differentiators**: Uniquely autonomous and hyper-scalable infrastructure, offering significant energy savings and enhanced security compared to traditional models.
+- **Products and Services**: Decentralized Autonomous OS, Quantum Safe Storage, Edge Cloud Computing Platform, and Mycelium Network, together creating a comprehensive and autonomous cloud infrastructure solution (software).
+- **Stage of Development**: The software used on decent scale in TFGrid, we now need to strengthen executive team and commercially launch our solutions.
+- **Key Differentiators**: Uniquely autonomous and hyper-scalable infrastructure through software, offering significant energy savings and enhanced security compared to traditional models.
 - **Business Model**: Licensing and supporting specific deployments, such as [Tier-S data centers](https://info.ourworld.tf/datacenter/datacenter/intro/intro.html), with an OEM strategy for broader market access.
 - **Planned Exit**: M&A +500m USD (preferred option) or Recurring revenue streams (priv equity, or stock exchange)
 
-## Why: The current Internet got hyjacked
 
-TFTech is addressing the urgent need for a more sustainable, efficient, and autonomous internet infrastructure. With the global internet infrastructure market rapidly expanding and demanding energy-efficient features, TFTech recognizes the limitations of existing highly centralized, complex, and power-hungry solutions. The platform is ideally positioned to support emerging industries such as AI, IoT, cloud computing, and much more. TFTech aims to enable a world where individuals and organizations can operate in a safe, sovereign, scalable, and energy-efficient digital environment.
+## Unique: our Software allows the following:
 
-## How: Laying out the foundation for a Truly Decentralized World 
-
-ThreeFold Tech achieves its mission through a combination of advanced technology and innovative strategies, structured to create a decentralized and sustainable cloud computing environment. The core of their approach involves:
-
-- **100% Autonomous IT**: At the core of ThreeFold Tech's approach is the development of an operating system and infrastructure that are entirely self-operating and self-healing. This autonomy is a game-changer, as it removes the need for human intervention, thereby enhancing security and operational efficiency. The ability of the system to manage and repair itself ensures a more reliable and secure cloud infrastructure.
-- **Hyper-Scalability**: ThreeFold Tech's platform is uniquely designed for hyper-scalability. It is capable of scaling up internet infrastructure in any location where electricity and network access are available. This design not only offers significant cost savings but also provides unparalleled flexibility in deployment. The scalability factor is crucial for adapting to varying demand and for expanding services in diverse geographical regions.
-- **Ultra-Sustainability**: Sustainability is woven into every aspect of ThreeFold Tech's technology. From the ground up, the system is designed to reduce overheads significantly and extend the lifespan of hardware components. This commitment to sustainability is not just environmentally responsible but also economically advantageous, as it leads to lower operational costs over time. The focus on sustainability reflects a forward-thinking approach to technology development, aligning with global efforts to create more eco-friendly digital solutions.
-- **Commitment to Open Source and Community**: Leveraging open-source principles, ThreeFold Tech underpins the ThreeFold Grid, a globally-distributed grid of independent storage, compute, and network capacity. This community-driven approach democratizes internet resources and encourages collaboration among users.
+- **100% Autonomous IT**: At the core of ThreeFold Tech's approach is the development of an operating system and infrastructure that are entirely self-operating and self-healing. This autonomy is a game-changer, as it removes the need for human intervention, thereby enhancing security and operational efficiency. 
+- **Hyper-Scalability**: there are no scalability limits to how our software works, our software can enable billions of devices and people.
+- **Ultra-Sustainability**: for storage we can safe upto 10x in energy usage, for compute 2-3x.
+- **Commitment to Open Source and Community**
 
 ## What: Decentralized, Autonomous and Ultra-Efficient Internet Infrastructure Platform
 
