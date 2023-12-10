@@ -4,7 +4,7 @@
 
 > we should be asking ourselves what kind of children are we going to leave on this planet
 
-## Help our kids to grow.
+## Help deliver a better future for our kids.
 
 ![](img/why2.png)
 
