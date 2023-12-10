@@ -15,18 +15,16 @@
 - **Planned Exit**: M&A +500m USD (preferred option) or Recurring revenue streams (priv equity, or stock exchange)
 
 
-## Unique: our Software allows the following:
+### Unique: our Software allows the following:
 
 - **100% Autonomous IT**: At the core of ThreeFold Tech's approach is the development of an operating system and infrastructure that are entirely self-operating and self-healing. This autonomy is a game-changer, as it removes the need for human intervention, thereby enhancing security and operational efficiency. 
 - **Hyper-Scalability**: there are no scalability limits to how our software works, our software can enable billions of devices and people.
 - **Ultra-Sustainability**: for storage we can safe upto 10x in energy usage, for compute 2-3x.
 - **Commitment to Open Source and Community**
 
-## What: Decentralized, Autonomous and Ultra-Efficient Internet Infrastructure Platform
+### What: Software for Decentralized, Autonomous and Ultra-Efficient Internet Infrastructure.
 
-ThreeFold Tech (TFTech) has developed a pioneering autonomous cloud platform that represents a significant advancement in cloud computing technology. The platform, which has been in development since 2016, is designed to offer optimal scalability, data protection, and efficiency. It is well-suited to address the challenges and demands of the modern IT industry while adhering to Environmental, Social, and Governance (ESG) standards.
-
-The core of TFTech’s offering is its decentralized, edge autonomous infrastructure that is adaptable and capable of functioning on any modern computer with a network connection and electricity. This approach ensures 100% autonomy, hyper-scalability, and ultra-sustainability. The lightweight operating system is specifically designed to optimize hardware space for IT workloads. The platform includes:
+The software platform includes:
 
 - **Decentralized Autonomous OS**: Facilitates streamlined operations at the network's edge, running on any modern computer.
 - **Quantum Safe Storage**: Offers an ultra-scalable and secure storage system, compatible with most tools and protocols.
