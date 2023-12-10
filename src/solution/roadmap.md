@@ -2,65 +2,74 @@
 
 ![](../ventures/img/roadmap.png)
 
-### Step 1a: sell some initial Tier S Datacenters.
+### Step 1a: deliver 1 or 2 smaller Tier S Datacenters.
 
-Use the available funding for datacenters in countries (Africa and maybe South America) to build Tier S Datacenters instead with special attention for how to cleanly generate the electricity, we have a multitude of options available.
+Utilize the allocated funds for constructing data centers in select countries across Africa and potentially South America, with a focus on developing Tier S Datacenters. These facilities should prioritize innovative and clean methods for electricity generation, exploring various sustainable options at our disposal.
 
-Once 1 or 2 are sold this will give us all the required credibility and funding to fundraise much more money and deploy the earth regenerators.
+Successfully completing and selling one or two of these projects will significantly enhance our credibility and financial standing. This achievement will not only validate our capabilities but also enable us to secure additional funding. Such financial support will be crucial for the widespread deployment of earth regenerators.
 
-Selling only 2 a 3 projects are enough to make OurWorld startups cashflow positive.
+By selling just two to three projects, we can ensure that OurWorld startups become cashflow positive, marking a pivotal step in our journey towards sustainable and profitable operations.
 
-There are 3 projects we are working on.
+### Step 1b: deploy a first Earth Regenerator in Zanzibar.
 
-### Step 1b: deploy a first earth regenerator in Zanzibar.
+An Earth Regenerator is a smaller size Tier S Datacenter, Organic Fertilizer, Clean Water & Energy Production.
 
-The government of Zanzibar has granted us 1,000,000m2 land, we would like to use this land to build a first earth regenerator as well as a training and meetings center to allow everyone to see how we together with mother nature can regenerate our land.
+The Zanzibar government has generously allocated 1,000,000 square meters of land to us. Our vision is to utilize this land for constructing a Earth Regenerator, along with a dedicated training and meeting center. This initiative aims to showcase our collaborative efforts with nature in regenerating our planet.
 
 The first earth regenerator will demonstrate the following:
 
-- production of
-  - organic furtilizer and other land regeneration products
-  - sustainable electricity generation
-  - biochar, who has capability to become Graphene (the holy grail material) (*)
-  - clean drinking water for 20,000 people
-  - clean water for agriculture and farming
-  - permaculture food production
-- community owned digital backbone:
+- Tier S Datacenter Capacity
+- Complementary digital backbone:
   - scalable sovereign education system
-  - internet cloud capacity
   - digital twin technology: equal future for everyone
   - localized AI Platform usable for thousands of usecases
   - metaverse and augmented reality platform with pixel streaming.
   - meshed peer2peer sovereign Internet Connectivity
-  
+- also leading to production of
+  - organic furtilizer and other land regeneration products
+  - sustainable electricity generation
+  - clean drinking water for 20,000 people
+  - permaculture food production
 
-A local education & demonstration facility will be able to show:
-- commercial viability (ROI < 5 years)
-- restoration capabilities of land
-- food production capabilities
-- digital capabilities and how to develop on it
-- how to generate water, electricity, ...
-- the economic system behind
+A local education and demonstration facility will showcase the following:
 
-The required budget for such a system will be about 10m USD and we are looking for dedicated investors who have as interest to make this happen.
+- Commercial Viability: Achieving a Return on Investment (ROI) in under 5 years.
+- Land Restoration: Demonstrating the capacity to rejuvenate land.
+- Food Production: Showcasing efficient agricultural methods.
+- Digital Development: Educating on digital capabilities and development.
+- Resource Generation: Methods to produce water, electricity, and more.
+- Economic Model: Understanding the financial system underpinning the project.
 
-10% of every future earth regenerator sold will go to these investors until they receive 2x their invested money.
+We estimate the budget for this system to be around $10 million USD. We are currently seeking investors who are committed to making this vision a reality.
 
-### Step 2a:
+As an incentive, investors will receive 10% of the revenue from every future Earth Regenerator sold until they have earned twice their initial investment.
 
-- Sell TFTech for +1 Billion USD.
+
+### Q2 2024: +1000 nodes in Africa for TFGrid
+
+-  We're actively encouraging our community to deploy at least 1000 nodes in the coming months. This effort aims to demonstrate a strong interest in decentralized cloud capacity within Africa.
+
+### Q2 2024: Sikana Hosted on Digital Twin Tech 
+
+-  Sikana goes on top of the TFGrid and becomes first class citizen on our decentralized network.
+
+### Q3 2024: Digital Freezone Goes Life
+
+- We expect our Digital FreeZone to be operational beginning H2 2024 and accept first customers.
+
+
+
+### H1 2025: TFTech Strategic Option
+
+- Check if we can do a meaningful strategic transaction for TFTech
 - We have sold 7 tech companies in the past and what have built with TFTech is by far the most capable technology we have ever created.
-- Our current roll out of TFGrid is already an incredible proof point and should allow us to sell our company for +100m USD (for sure).
-- But once we have sold 1 or 2 Tier S datacenter projects and announced some partnerships with countries then our price will be above 1billion USD.
-- These proceeds come into our Venture Creator and finance any future funding need.
+- Our current roll out of TFGrid is already an incredible proof point today
+- Once we have sold 1 or 2 Tier S datacenter projects and announced some partnerships with countries then our transaction value might be Unicorn Level.
+- The proceeds come into our Venture Creator and finance any future funding need.
 
-remark: necessary conditions to sell TFTech 
+remark: necessary conditions to do such a strategic deal
 
 - 5m USD funding in TFTech (as planned)
 - a senior management team in TFTech
-- some more operational capabilities.
-
-### Step 2b: 
-
-> TODO: kristof finish
+- implement more operational capabilities.
 
