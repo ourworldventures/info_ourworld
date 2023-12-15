@@ -79,12 +79,8 @@ The OurWorld Investment committee has to agree on the following investment miles
 
 # CASHFLOW
 
-![image alt text](img/image_1.png)
+![image alt text](img/cashflow.jpeg)
 
 Detail:
 
-![image alt text](img/image_2.png)
-
-![image alt text](img/image_3.png)
-
-> TODO: alex, need to update to dec 2023 status
+![image alt text](img/detail.jpeg)
